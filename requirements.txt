@@ -1,0 +1,11 @@
+Python == 3.9.21
+pandas==2.2.3
+numpy==1.26.4
+torch==2.8.0
+transformers==4.57.3
+rdkit-pypi==2022.9.5
+scikit-learn==1.1.2
+joblib==1.1.0
+matplotlib==3.9.2
+shap==0.39.0
+xgboost==1.7.6
