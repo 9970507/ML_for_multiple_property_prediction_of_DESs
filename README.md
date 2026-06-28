@@ -11,10 +11,9 @@ ML_for_multiple_property_prediction_of_DESs/
 ├── Melting_point/
 ├── Density/
 ├── Viscosity/
-│   └── ChemBERTa-77M-MLM/        # Pretrained ChemBERTa model
 ├── Heat_capacity/
 ├── Electrical_conductivity/
-├── Surface_tension/
+├── Refractive_index/
 ├── LICENSE
 ├── README.md
 └── requirements.txt
