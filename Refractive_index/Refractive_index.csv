@@ -1,0 +1,1060 @@
+Type of DES,Component#1,Component#2,X#1,X#2,"T, K",Refractive_index,Smiles#1,Smiles#2
+III,2-hydroxyethyl(trimethyl)azanium chloride,2-chloroacetic acid,0.3333,0.6667,288.15,1.4744,C[N+](C)(C)CCO.[Cl-],C(C(=O)O)Cl
+III,2-hydroxyethyl(trimethyl)azanium chloride,2-chloroacetic acid,0.3333,0.6667,293.15,1.4732,C[N+](C)(C)CCO.[Cl-],C(C(=O)O)Cl
+III,2-hydroxyethyl(trimethyl)azanium chloride,2-chloroacetic acid,0.3333,0.6667,303.15,1.4709,C[N+](C)(C)CCO.[Cl-],C(C(=O)O)Cl
+III,2-hydroxyethyl(trimethyl)azanium chloride,2-chloroacetic acid,0.3333,0.6667,308.15,1.4697,C[N+](C)(C)CCO.[Cl-],C(C(=O)O)Cl
+III,2-hydroxyethyl(trimethyl)azanium chloride,2-chloroacetic acid,0.3333,0.6667,318.15,1.4674,C[N+](C)(C)CCO.[Cl-],C(C(=O)O)Cl
+III,2-hydroxyethyl(trimethyl)azanium chloride,2-chloroacetic acid,0.3333,0.6667,323.15,1.4663,C[N+](C)(C)CCO.[Cl-],C(C(=O)O)Cl
+III,2-hydroxyethyl(trimethyl)azanium chloride,2-chloroacetic acid,0.3333,0.6667,328.15,1.4651,C[N+](C)(C)CCO.[Cl-],C(C(=O)O)Cl
+III,2-hydroxyethyl(trimethyl)azanium chloride,2-chloroacetic acid,0.3333,0.6667,333.15,1.4639,C[N+](C)(C)CCO.[Cl-],C(C(=O)O)Cl
+III,2-hydroxyethyl(trimethyl)azanium chloride,2-chloroacetic acid,0.3333,0.6667,338.15,1.4627,C[N+](C)(C)CCO.[Cl-],C(C(=O)O)Cl
+III,2-hydroxyethyl(trimethyl)azanium chloride,propanoic acid,0.3333,0.6667,288.15,1.4499,C[N+](C)(C)CCO.[Cl-],CCC(=O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,propanoic acid,0.3333,0.6667,298.15,1.4482,C[N+](C)(C)CCO.[Cl-],CCC(=O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,propanoic acid,0.3333,0.6667,303.15,1.4472,C[N+](C)(C)CCO.[Cl-],CCC(=O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,propanoic acid,0.3333,0.6667,313.15,1.4453,C[N+](C)(C)CCO.[Cl-],CCC(=O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,propanoic acid,0.3333,0.6667,318.15,1.4444,C[N+](C)(C)CCO.[Cl-],CCC(=O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,propanoic acid,0.3333,0.6667,323.15,1.4434,C[N+](C)(C)CCO.[Cl-],CCC(=O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,propanoic acid,0.3333,0.6667,328.15,1.4425,C[N+](C)(C)CCO.[Cl-],CCC(=O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,propanoic acid,0.3333,0.6667,333.15,1.4415,C[N+](C)(C)CCO.[Cl-],CCC(=O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,propanoic acid,0.3333,0.6667,338.15,1.4406,C[N+](C)(C)CCO.[Cl-],CCC(=O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,4-methylbenzenesulfonic acid,0.3333,0.6667,288.15,1.5189,C[N+](C)(C)CCO.[Cl-],CC1=CC=C(C=C1)S(=O)(=O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,4-methylbenzenesulfonic acid,0.3333,0.6667,298.15,1.5167,C[N+](C)(C)CCO.[Cl-],CC1=CC=C(C=C1)S(=O)(=O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,4-methylbenzenesulfonic acid,0.3333,0.6667,303.15,1.5155,C[N+](C)(C)CCO.[Cl-],CC1=CC=C(C=C1)S(=O)(=O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,4-methylbenzenesulfonic acid,0.3333,0.6667,308.15,1.5144,C[N+](C)(C)CCO.[Cl-],CC1=CC=C(C=C1)S(=O)(=O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,4-methylbenzenesulfonic acid,0.3333,0.6667,318.15,1.512,C[N+](C)(C)CCO.[Cl-],CC1=CC=C(C=C1)S(=O)(=O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,4-methylbenzenesulfonic acid,0.3333,0.6667,323.15,1.5108,C[N+](C)(C)CCO.[Cl-],CC1=CC=C(C=C1)S(=O)(=O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,4-methylbenzenesulfonic acid,0.3333,0.6667,328.15,1.5096,C[N+](C)(C)CCO.[Cl-],CC1=CC=C(C=C1)S(=O)(=O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,4-methylbenzenesulfonic acid,0.3333,0.6667,333.15,1.5084,C[N+](C)(C)CCO.[Cl-],CC1=CC=C(C=C1)S(=O)(=O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"2,2,2-trichloroacetic acid",0.3333,0.6667,288.15,1.4934,C[N+](C)(C)CCO.[Cl-],C(=O)(C(Cl)(Cl)Cl)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"2,2,2-trichloroacetic acid",0.3333,0.6667,293.15,1.492,C[N+](C)(C)CCO.[Cl-],C(=O)(C(Cl)(Cl)Cl)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"2,2,2-trichloroacetic acid",0.3333,0.6667,298.15,1.4907,C[N+](C)(C)CCO.[Cl-],C(=O)(C(Cl)(Cl)Cl)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"2,2,2-trichloroacetic acid",0.3333,0.6667,303.15,1.4894,C[N+](C)(C)CCO.[Cl-],C(=O)(C(Cl)(Cl)Cl)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"2,2,2-trichloroacetic acid",0.3333,0.6667,308.15,1.4881,C[N+](C)(C)CCO.[Cl-],C(=O)(C(Cl)(Cl)Cl)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"2,2,2-trichloroacetic acid",0.3333,0.6667,318.15,1.4854,C[N+](C)(C)CCO.[Cl-],C(=O)(C(Cl)(Cl)Cl)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"2,2,2-trichloroacetic acid",0.3333,0.6667,323.15,1.4841,C[N+](C)(C)CCO.[Cl-],C(=O)(C(Cl)(Cl)Cl)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"2,2,2-trichloroacetic acid",0.3333,0.6667,333.15,1.4814,C[N+](C)(C)CCO.[Cl-],C(=O)(C(Cl)(Cl)Cl)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"2,2,2-trichloroacetic acid",0.3333,0.6667,338.15,1.48,C[N+](C)(C)CCO.[Cl-],C(=O)(C(Cl)(Cl)Cl)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,pentanedioic acid,0.5,0.5,293.15,1.48441,C[N+](C)(C)CCO.[Cl-],C(CC(=O)O)CC(=O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,pentanedioic acid,0.5,0.5,298.15,1.4833,C[N+](C)(C)CCO.[Cl-],C(CC(=O)O)CC(=O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,pentanedioic acid,0.5,0.5,308.15,1.48093,C[N+](C)(C)CCO.[Cl-],C(CC(=O)O)CC(=O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,pentanedioic acid,0.5,0.5,313.15,1.47971,C[N+](C)(C)CCO.[Cl-],C(CC(=O)O)CC(=O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,pentanedioic acid,0.5,0.5,318.15,1.47853,C[N+](C)(C)CCO.[Cl-],C(CC(=O)O)CC(=O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,pentanedioic acid,0.5,0.5,328.15,1.47616,C[N+](C)(C)CCO.[Cl-],C(CC(=O)O)CC(=O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,pentanedioic acid,0.5,0.5,333.15,1.47491,C[N+](C)(C)CCO.[Cl-],C(CC(=O)O)CC(=O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,pentanedioic acid,0.5,0.5,338.15,1.47369,C[N+](C)(C)CCO.[Cl-],C(CC(=O)O)CC(=O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,pentanedioic acid,0.5,0.5,343.15,1.47251,C[N+](C)(C)CCO.[Cl-],C(CC(=O)O)CC(=O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,pentanedioic acid,0.5,0.5,348.15,1.47129,C[N+](C)(C)CCO.[Cl-],C(CC(=O)O)CC(=O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,2-hydroxyacetic acid,0.5,0.5,293.15,1.48413,C[N+](C)(C)CCO.[Cl-],C(C(=O)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,2-hydroxyacetic acid,0.5,0.5,298.15,1.48293,C[N+](C)(C)CCO.[Cl-],C(C(=O)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,2-hydroxyacetic acid,0.5,0.5,303.15,1.4818,C[N+](C)(C)CCO.[Cl-],C(C(=O)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,2-hydroxyacetic acid,0.5,0.5,308.15,1.48065,C[N+](C)(C)CCO.[Cl-],C(C(=O)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,2-hydroxyacetic acid,0.5,0.5,313.15,1.47949,C[N+](C)(C)CCO.[Cl-],C(C(=O)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,2-hydroxyacetic acid,0.5,0.5,323.15,1.4772,C[N+](C)(C)CCO.[Cl-],C(C(=O)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,2-hydroxyacetic acid,0.5,0.5,328.15,1.47604,C[N+](C)(C)CCO.[Cl-],C(C(=O)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,2-hydroxyacetic acid,0.5,0.5,338.15,1.47372,C[N+](C)(C)CCO.[Cl-],C(C(=O)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,2-hydroxyacetic acid,0.5,0.5,343.15,1.47249,C[N+](C)(C)CCO.[Cl-],C(C(=O)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,2-hydroxyacetic acid,0.5,0.5,348.15,1.4713,C[N+](C)(C)CCO.[Cl-],C(C(=O)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,2-hydroxyacetic acid,0.5,0.5,353.15,1.47012,C[N+](C)(C)CCO.[Cl-],C(C(=O)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,4-oxopentanoic acid,0.3333,0.6667,293.15,1.46927,C[N+](C)(C)CCO.[Cl-],CC(=O)CCC(=O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,4-oxopentanoic acid,0.3333,0.6667,298.15,1.46792,C[N+](C)(C)CCO.[Cl-],CC(=O)CCC(=O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,4-oxopentanoic acid,0.3333,0.6667,303.15,1.4665,C[N+](C)(C)CCO.[Cl-],CC(=O)CCC(=O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,4-oxopentanoic acid,0.3333,0.6667,313.15,1.46375,C[N+](C)(C)CCO.[Cl-],CC(=O)CCC(=O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,4-oxopentanoic acid,0.3333,0.6667,318.15,1.46233,C[N+](C)(C)CCO.[Cl-],CC(=O)CCC(=O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,4-oxopentanoic acid,0.3333,0.6667,328.15,1.45956,C[N+](C)(C)CCO.[Cl-],CC(=O)CCC(=O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,4-oxopentanoic acid,0.3333,0.6667,333.15,1.45814,C[N+](C)(C)CCO.[Cl-],CC(=O)CCC(=O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,4-oxopentanoic acid,0.3333,0.6667,338.15,1.45675,C[N+](C)(C)CCO.[Cl-],CC(=O)CCC(=O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,4-oxopentanoic acid,0.3333,0.6667,343.15,1.45533,C[N+](C)(C)CCO.[Cl-],CC(=O)CCC(=O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,propanedioic acid,0.5,0.5,293.15,1.48818,C[N+](C)(C)CCO.[Cl-],C(C(=O)O)C(=O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,propanedioic acid,0.5,0.5,298.15,1.48713,C[N+](C)(C)CCO.[Cl-],C(C(=O)O)C(=O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,propanedioic acid,0.5,0.5,303.15,1.48601,C[N+](C)(C)CCO.[Cl-],C(C(=O)O)C(=O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,propanedioic acid,0.5,0.5,313.15,1.48376,C[N+](C)(C)CCO.[Cl-],C(C(=O)O)C(=O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,propanedioic acid,0.5,0.5,318.15,1.48264,C[N+](C)(C)CCO.[Cl-],C(C(=O)O)C(=O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,propanedioic acid,0.5,0.5,323.15,1.48153,C[N+](C)(C)CCO.[Cl-],C(C(=O)O)C(=O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,propanedioic acid,0.5,0.5,328.15,1.48043,C[N+](C)(C)CCO.[Cl-],C(C(=O)O)C(=O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,propanedioic acid,0.5,0.5,333.15,1.4793,C[N+](C)(C)CCO.[Cl-],C(C(=O)O)C(=O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,propanedioic acid,0.5,0.5,338.15,1.4782,C[N+](C)(C)CCO.[Cl-],C(C(=O)O)C(=O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,propanedioic acid,0.5,0.5,348.15,1.47594,C[N+](C)(C)CCO.[Cl-],C(C(=O)O)C(=O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,oxalic acid,0.5,0.5,293.15,1.48765,C[N+](C)(C)CCO.[Cl-],C(=O)(C(=O)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,oxalic acid,0.5,0.5,298.15,1.48649,C[N+](C)(C)CCO.[Cl-],C(=O)(C(=O)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,oxalic acid,0.5,0.5,308.15,1.48384,C[N+](C)(C)CCO.[Cl-],C(=O)(C(=O)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,oxalic acid,0.5,0.5,313.15,1.48252,C[N+](C)(C)CCO.[Cl-],C(=O)(C(=O)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,oxalic acid,0.5,0.5,318.15,1.4812,C[N+](C)(C)CCO.[Cl-],C(=O)(C(=O)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,oxalic acid,0.5,0.5,323.15,1.47986,C[N+](C)(C)CCO.[Cl-],C(=O)(C(=O)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,oxalic acid,0.5,0.5,333.15,1.47722,C[N+](C)(C)CCO.[Cl-],C(=O)(C(=O)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,oxalic acid,0.5,0.5,338.15,1.4759,C[N+](C)(C)CCO.[Cl-],C(=O)(C(=O)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,oxalic acid,0.5,0.5,343.15,1.47459,C[N+](C)(C)CCO.[Cl-],C(=O)(C(=O)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,oxalic acid,0.5,0.5,348.15,1.47329,C[N+](C)(C)CCO.[Cl-],C(=O)(C(=O)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"propane-1,2,3-triol",0.3333,0.6667,283.15,1.48809,C[N+](C)(C)CCO.[Cl-],C(C(CO)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"propane-1,2,3-triol",0.3333,0.6667,285.65,1.4875,C[N+](C)(C)CCO.[Cl-],C(C(CO)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"propane-1,2,3-triol",0.3333,0.6667,290.65,1.48632,C[N+](C)(C)CCO.[Cl-],C(C(CO)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"propane-1,2,3-triol",0.3333,0.6667,295.65,1.48514,C[N+](C)(C)CCO.[Cl-],C(C(CO)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"propane-1,2,3-triol",0.3333,0.6667,298.15,1.48455,C[N+](C)(C)CCO.[Cl-],C(C(CO)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"propane-1,2,3-triol",0.3333,0.6667,300.65,1.48396,C[N+](C)(C)CCO.[Cl-],C(C(CO)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"propane-1,2,3-triol",0.3333,0.6667,303.15,1.48337,C[N+](C)(C)CCO.[Cl-],C(C(CO)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"propane-1,2,3-triol",0.3333,0.6667,305.65,1.48278,C[N+](C)(C)CCO.[Cl-],C(C(CO)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"propane-1,2,3-triol",0.3333,0.6667,308.15,1.48218,C[N+](C)(C)CCO.[Cl-],C(C(CO)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"propane-1,2,3-triol",0.3333,0.6667,313.15,1.48098,C[N+](C)(C)CCO.[Cl-],C(C(CO)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"propane-1,2,3-triol",0.3333,0.6667,315.65,1.4804,C[N+](C)(C)CCO.[Cl-],C(C(CO)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"propane-1,2,3-triol",0.3333,0.6667,318.15,1.4798,C[N+](C)(C)CCO.[Cl-],C(C(CO)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"propane-1,2,3-triol",0.3333,0.6667,323.15,1.4786,C[N+](C)(C)CCO.[Cl-],C(C(CO)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"propane-1,2,3-triol",0.3333,0.6667,325.65,1.47801,C[N+](C)(C)CCO.[Cl-],C(C(CO)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"propane-1,2,3-triol",0.3333,0.6667,328.15,1.47741,C[N+](C)(C)CCO.[Cl-],C(C(CO)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"propane-1,2,3-triol",0.3333,0.6667,330.65,1.47681,C[N+](C)(C)CCO.[Cl-],C(C(CO)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"propane-1,2,3-triol",0.3333,0.6667,333.15,1.47622,C[N+](C)(C)CCO.[Cl-],C(C(CO)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"propane-1,2,3-triol",0.3333,0.6667,338.15,1.47504,C[N+](C)(C)CCO.[Cl-],C(C(CO)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"ethane-1,2-diol",0.3333,0.6667,283.15,1.47232,C[N+](C)(C)CCO.[Cl-],C(CO)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"ethane-1,2-diol",0.3333,0.6667,288.15,1.47118,C[N+](C)(C)CCO.[Cl-],C(CO)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"ethane-1,2-diol",0.3333,0.6667,290.65,1.47063,C[N+](C)(C)CCO.[Cl-],C(CO)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"ethane-1,2-diol",0.3333,0.6667,293.15,1.47005,C[N+](C)(C)CCO.[Cl-],C(CO)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"ethane-1,2-diol",0.3333,0.6667,295.65,1.46948,C[N+](C)(C)CCO.[Cl-],C(CO)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"ethane-1,2-diol",0.3333,0.6667,298.15,1.46889,C[N+](C)(C)CCO.[Cl-],C(CO)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"ethane-1,2-diol",0.3333,0.6667,300.65,1.46832,C[N+](C)(C)CCO.[Cl-],C(CO)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"ethane-1,2-diol",0.3333,0.6667,303.15,1.46774,C[N+](C)(C)CCO.[Cl-],C(CO)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"ethane-1,2-diol",0.3333,0.6667,308.15,1.46641,C[N+](C)(C)CCO.[Cl-],C(CO)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"ethane-1,2-diol",0.3333,0.6667,310.65,1.46567,C[N+](C)(C)CCO.[Cl-],C(CO)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"ethane-1,2-diol",0.3333,0.6667,315.65,1.46443,C[N+](C)(C)CCO.[Cl-],C(CO)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"ethane-1,2-diol",0.3333,0.6667,318.15,1.46379,C[N+](C)(C)CCO.[Cl-],C(CO)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"ethane-1,2-diol",0.3333,0.6667,320.65,1.46317,C[N+](C)(C)CCO.[Cl-],C(CO)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"ethane-1,2-diol",0.3333,0.6667,323.15,1.46264,C[N+](C)(C)CCO.[Cl-],C(CO)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"ethane-1,2-diol",0.3333,0.6667,328.15,1.4613,C[N+](C)(C)CCO.[Cl-],C(CO)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"ethane-1,2-diol",0.3333,0.6667,330.65,1.46069,C[N+](C)(C)CCO.[Cl-],C(CO)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"ethane-1,2-diol",0.3333,0.6667,333.15,1.4601,C[N+](C)(C)CCO.[Cl-],C(CO)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"ethane-1,2-diol",0.3333,0.6667,335.65,1.45951,C[N+](C)(C)CCO.[Cl-],C(CO)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"ethane-1,2-diol",0.3333,0.6667,338.15,1.45889,C[N+](C)(C)CCO.[Cl-],C(CO)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,urea,0.3333,0.6667,288.15,1.510123,C[N+](C)(C)CCO.[Cl-],C(=O)(N)N
+III,2-hydroxyethyl(trimethyl)azanium chloride,urea,0.3333,0.6667,293.15,1.509089,C[N+](C)(C)CCO.[Cl-],C(=O)(N)N
+III,2-hydroxyethyl(trimethyl)azanium chloride,urea,0.3333,0.6667,295.65,1.508548,C[N+](C)(C)CCO.[Cl-],C(=O)(N)N
+III,2-hydroxyethyl(trimethyl)azanium chloride,urea,0.3333,0.6667,300.65,1.507533,C[N+](C)(C)CCO.[Cl-],C(=O)(N)N
+III,2-hydroxyethyl(trimethyl)azanium chloride,urea,0.3333,0.6667,303.15,1.507055,C[N+](C)(C)CCO.[Cl-],C(=O)(N)N
+III,2-hydroxyethyl(trimethyl)azanium chloride,urea,0.3333,0.6667,305.65,1.506521,C[N+](C)(C)CCO.[Cl-],C(=O)(N)N
+III,2-hydroxyethyl(trimethyl)azanium chloride,urea,0.3333,0.6667,308.15,1.505983,C[N+](C)(C)CCO.[Cl-],C(=O)(N)N
+III,2-hydroxyethyl(trimethyl)azanium chloride,urea,0.3333,0.6667,310.65,1.505449,C[N+](C)(C)CCO.[Cl-],C(=O)(N)N
+III,2-hydroxyethyl(trimethyl)azanium chloride,urea,0.3333,0.6667,315.65,1.504281,C[N+](C)(C)CCO.[Cl-],C(=O)(N)N
+III,2-hydroxyethyl(trimethyl)azanium chloride,urea,0.3333,0.6667,318.15,1.503695,C[N+](C)(C)CCO.[Cl-],C(=O)(N)N
+III,2-hydroxyethyl(trimethyl)azanium chloride,urea,0.3333,0.6667,323.15,1.502542,C[N+](C)(C)CCO.[Cl-],C(=O)(N)N
+III,2-hydroxyethyl(trimethyl)azanium chloride,urea,0.3333,0.6667,325.65,1.501966,C[N+](C)(C)CCO.[Cl-],C(=O)(N)N
+III,2-hydroxyethyl(trimethyl)azanium chloride,urea,0.3333,0.6667,328.15,1.501408,C[N+](C)(C)CCO.[Cl-],C(=O)(N)N
+III,2-hydroxyethyl(trimethyl)azanium chloride,urea,0.3333,0.6667,330.65,1.500842,C[N+](C)(C)CCO.[Cl-],C(=O)(N)N
+III,2-hydroxyethyl(trimethyl)azanium chloride,urea,0.3333,0.6667,335.65,1.499719,C[N+](C)(C)CCO.[Cl-],C(=O)(N)N
+III,2-hydroxyethyl(trimethyl)azanium chloride,urea,0.3333,0.6667,338.15,1.49916,C[N+](C)(C)CCO.[Cl-],C(=O)(N)N
+III,2-hydroxyethyl(trimethyl)azanium chloride,"propane-1,2-diol",0.25,0.75,288.15,1.4613,C[N+](C)(C)CCO.[Cl-],CC(CO)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"propane-1,2-diol",0.25,0.75,298.15,1.4584,C[N+](C)(C)CCO.[Cl-],CC(CO)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"propane-1,2-diol",0.25,0.75,308.15,1.4549,C[N+](C)(C)CCO.[Cl-],CC(CO)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"propane-1,2-diol",0.25,0.75,328.15,1.4486,C[N+](C)(C)CCO.[Cl-],CC(CO)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"2-hydroxy-2,2-diphenylacetic acid",0.5,0.5,293.15,1.569528,C[N+](C)(C)CCO.[Cl-],C1=CC=C(C=C1)C(C2=CC=CC=C2)(C(=O)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"2-hydroxy-2,2-diphenylacetic acid",0.5,0.5,298.15,1.568189,C[N+](C)(C)CCO.[Cl-],C1=CC=C(C=C1)C(C2=CC=CC=C2)(C(=O)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"2-hydroxy-2,2-diphenylacetic acid",0.5,0.5,308.15,1.565228,C[N+](C)(C)CCO.[Cl-],C1=CC=C(C=C1)C(C2=CC=CC=C2)(C(=O)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"2-hydroxy-2,2-diphenylacetic acid",0.5,0.5,313.15,1.563742,C[N+](C)(C)CCO.[Cl-],C1=CC=C(C=C1)C(C2=CC=CC=C2)(C(=O)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"2-hydroxy-2,2-diphenylacetic acid",0.5,0.5,318.15,1.562264,C[N+](C)(C)CCO.[Cl-],C1=CC=C(C=C1)C(C2=CC=CC=C2)(C(=O)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"2-hydroxy-2,2-diphenylacetic acid",0.5,0.5,323.15,1.560757,C[N+](C)(C)CCO.[Cl-],C1=CC=C(C=C1)C(C2=CC=CC=C2)(C(=O)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"2-hydroxy-2,2-diphenylacetic acid",0.5,0.5,328.15,1.559261,C[N+](C)(C)CCO.[Cl-],C1=CC=C(C=C1)C(C2=CC=CC=C2)(C(=O)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"2-hydroxy-2,2-diphenylacetic acid",0.5,0.5,333.15,1.55776,C[N+](C)(C)CCO.[Cl-],C1=CC=C(C=C1)C(C2=CC=CC=C2)(C(=O)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,4-oxopentanoic acid,0.3333,0.6667,293.15,1.46336,C[N+](C)(C)CCO.[Cl-],CC(=O)CCC(=O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,4-oxopentanoic acid,0.3333,0.6667,303.15,1.4603,C[N+](C)(C)CCO.[Cl-],CC(=O)CCC(=O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,4-oxopentanoic acid,0.3333,0.6667,308.15,1.45878,C[N+](C)(C)CCO.[Cl-],CC(=O)CCC(=O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,4-oxopentanoic acid,0.3333,0.6667,318.15,1.45575,C[N+](C)(C)CCO.[Cl-],CC(=O)CCC(=O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,4-oxopentanoic acid,0.3333,0.6667,323.15,1.45424,C[N+](C)(C)CCO.[Cl-],CC(=O)CCC(=O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,4-oxopentanoic acid,0.3333,0.6667,328.15,1.45271,C[N+](C)(C)CCO.[Cl-],CC(=O)CCC(=O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,4-oxopentanoic acid,0.3333,0.6667,333.15,1.45141,C[N+](C)(C)CCO.[Cl-],CC(=O)CCC(=O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,4-oxopentanoic acid,0.3333,0.6667,343.15,1.44844,C[N+](C)(C)CCO.[Cl-],CC(=O)CCC(=O)O
+III,tetrabutylazanium chloride,4-oxopentanoic acid,0.3333,0.6667,293.15,1.4578,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],CC(=O)CCC(=O)O
+III,tetrabutylazanium chloride,4-oxopentanoic acid,0.3333,0.6667,298.15,1.45612,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],CC(=O)CCC(=O)O
+III,tetrabutylazanium chloride,4-oxopentanoic acid,0.3333,0.6667,308.15,1.45279,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],CC(=O)CCC(=O)O
+III,tetrabutylazanium chloride,4-oxopentanoic acid,0.3333,0.6667,313.15,1.45117,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],CC(=O)CCC(=O)O
+III,tetrabutylazanium chloride,4-oxopentanoic acid,0.3333,0.6667,318.15,1.44952,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],CC(=O)CCC(=O)O
+III,tetrabutylazanium chloride,4-oxopentanoic acid,0.3333,0.6667,323.15,1.44783,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],CC(=O)CCC(=O)O
+III,tetrabutylazanium chloride,4-oxopentanoic acid,0.3333,0.6667,328.15,1.44621,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],CC(=O)CCC(=O)O
+III,tetrabutylazanium chloride,4-oxopentanoic acid,0.3333,0.6667,338.15,1.44295,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],CC(=O)CCC(=O)O
+III,tetrabutylazanium chloride,4-oxopentanoic acid,0.3333,0.6667,343.15,1.44137,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],CC(=O)CCC(=O)O
+III,tetraethylazanium chloride,4-oxopentanoic acid,0.3333,0.6667,293.15,1.46416,CC[N+](CC)(CC)CC.[Cl-],CC(=O)CCC(=O)O
+III,tetraethylazanium chloride,4-oxopentanoic acid,0.3333,0.6667,303.15,1.46103,CC[N+](CC)(CC)CC.[Cl-],CC(=O)CCC(=O)O
+III,tetraethylazanium chloride,4-oxopentanoic acid,0.3333,0.6667,308.15,1.4594,CC[N+](CC)(CC)CC.[Cl-],CC(=O)CCC(=O)O
+III,tetraethylazanium chloride,4-oxopentanoic acid,0.3333,0.6667,313.15,1.45796,CC[N+](CC)(CC)CC.[Cl-],CC(=O)CCC(=O)O
+III,tetraethylazanium chloride,4-oxopentanoic acid,0.3333,0.6667,318.15,1.45635,CC[N+](CC)(CC)CC.[Cl-],CC(=O)CCC(=O)O
+III,tetraethylazanium chloride,4-oxopentanoic acid,0.3333,0.6667,323.15,1.45478,CC[N+](CC)(CC)CC.[Cl-],CC(=O)CCC(=O)O
+III,tetraethylazanium chloride,4-oxopentanoic acid,0.3333,0.6667,328.15,1.45324,CC[N+](CC)(CC)CC.[Cl-],CC(=O)CCC(=O)O
+III,tetraethylazanium chloride,4-oxopentanoic acid,0.3333,0.6667,333.15,1.45172,CC[N+](CC)(CC)CC.[Cl-],CC(=O)CCC(=O)O
+III,tetraethylazanium chloride,4-oxopentanoic acid,0.3333,0.6667,343.15,1.44875,CC[N+](CC)(CC)CC.[Cl-],CC(=O)CCC(=O)O
+III,tetrabutylazanium chloride,"ethane-1,2-diol",0.3333,0.6667,293.15,1.4703,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(CO)O
+III,tetrabutylazanium chloride,"ethane-1,2-diol",0.3333,0.6667,313.15,1.4641,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(CO)O
+III,tetrabutylazanium chloride,"ethane-1,2-diol",0.3333,0.6667,323.15,1.4609,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(CO)O
+III,tetrabutylazanium chloride,"ethane-1,2-diol",0.3333,0.6667,333.15,1.4578,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(CO)O
+III,tetrabutylazanium chloride,"ethane-1,2-diol",0.3333,0.6667,353.15,1.4509,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(CO)O
+III,tetrabutylazanium chloride,"ethane-1,2-diol",0.25,0.75,293.15,1.4653,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(CO)O
+III,tetrabutylazanium chloride,"ethane-1,2-diol",0.25,0.75,303.15,1.4619,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(CO)O
+III,tetrabutylazanium chloride,"ethane-1,2-diol",0.25,0.75,313.15,1.4587,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(CO)O
+III,tetrabutylazanium chloride,"ethane-1,2-diol",0.25,0.75,333.15,1.4525,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(CO)O
+III,tetrabutylazanium chloride,"ethane-1,2-diol",0.25,0.75,343.15,1.4495,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(CO)O
+III,tetrabutylazanium chloride,"ethane-1,2-diol",0.25,0.75,353.15,1.4469,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(CO)O
+III,tetrabutylazanium chloride,"ethane-1,2-diol",0.2,0.8,293.15,1.4615,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(CO)O
+III,tetrabutylazanium chloride,"ethane-1,2-diol",0.2,0.8,303.15,1.4585,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(CO)O
+III,tetrabutylazanium chloride,"ethane-1,2-diol",0.2,0.8,313.15,1.4554,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(CO)O
+III,tetrabutylazanium chloride,"ethane-1,2-diol",0.2,0.8,333.15,1.4491,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(CO)O
+III,tetrabutylazanium chloride,"ethane-1,2-diol",0.2,0.8,343.15,1.445,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(CO)O
+III,tetrabutylazanium chloride,"ethane-1,2-diol",0.2,0.8,353.15,1.4427,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(CO)O
+III,tetrabutylazanium chloride,"propane-1,2,3-triol",0.25,0.75,293.15,1.4802,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(C(CO)O)O
+III,tetrabutylazanium chloride,"propane-1,2,3-triol",0.25,0.75,303.15,1.4774,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(C(CO)O)O
+III,tetrabutylazanium chloride,"propane-1,2,3-triol",0.25,0.75,323.15,1.4716,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(C(CO)O)O
+III,tetrabutylazanium chloride,"propane-1,2,3-triol",0.25,0.75,333.15,1.4685,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(C(CO)O)O
+III,tetrabutylazanium chloride,"propane-1,2,3-triol",0.25,0.75,353.15,1.462,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(C(CO)O)O
+III,tetrabutylazanium chloride,"propane-1,2,3-triol",0.2,0.8,293.15,1.4776,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(C(CO)O)O
+III,tetrabutylazanium chloride,"propane-1,2,3-triol",0.2,0.8,303.15,1.4747,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(C(CO)O)O
+III,tetrabutylazanium chloride,"propane-1,2,3-triol",0.2,0.8,313.15,1.4718,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(C(CO)O)O
+III,tetrabutylazanium chloride,"propane-1,2,3-triol",0.2,0.8,323.15,1.4687,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(C(CO)O)O
+III,tetrabutylazanium chloride,"propane-1,2,3-triol",0.2,0.8,333.15,1.4658,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(C(CO)O)O
+III,tetrabutylazanium chloride,"propane-1,2,3-triol",0.2,0.8,353.15,1.4603,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(C(CO)O)O
+III,tetrabutylazanium chloride,"propane-1,2,3-triol",0.1667,0.8333,293.15,1.4781,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(C(CO)O)O
+III,tetrabutylazanium chloride,"propane-1,2,3-triol",0.1667,0.8333,313.15,1.4726,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(C(CO)O)O
+III,tetrabutylazanium chloride,"propane-1,2,3-triol",0.1667,0.8333,323.15,1.4697,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(C(CO)O)O
+III,tetrabutylazanium chloride,"propane-1,2,3-triol",0.1667,0.8333,333.15,1.4668,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(C(CO)O)O
+III,tetrabutylazanium chloride,"propane-1,2,3-triol",0.1667,0.8333,343.15,1.4638,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(C(CO)O)O
+III,tetrabutylazanium chloride,"propane-1,2,3-triol",0.1667,0.8333,353.15,1.4607,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(C(CO)O)O
+III,tetrabutylazanium chloride,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.5,0.5,293.15,1.48,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(COCCOCCO)O
+III,tetrabutylazanium chloride,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.5,0.5,313.15,1.4742,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(COCCOCCO)O
+III,tetrabutylazanium chloride,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.5,0.5,323.15,1.4711,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(COCCOCCO)O
+III,tetrabutylazanium chloride,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.5,0.5,343.15,1.4646,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(COCCOCCO)O
+III,tetrabutylazanium chloride,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.5,0.5,353.15,1.4614,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(COCCOCCO)O
+III,tetrabutylazanium chloride,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.6667,0.3333,293.15,1.4851,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(COCCOCCO)O
+III,tetrabutylazanium chloride,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.6667,0.3333,303.15,1.4821,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(COCCOCCO)O
+III,tetrabutylazanium chloride,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.6667,0.3333,313.15,1.479,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(COCCOCCO)O
+III,tetrabutylazanium chloride,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.6667,0.3333,333.15,1.4731,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(COCCOCCO)O
+III,tetrabutylazanium chloride,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.6667,0.3333,343.15,1.4701,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(COCCOCCO)O
+III,tetrabutylazanium chloride,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.6667,0.3333,353.15,1.4673,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(COCCOCCO)O
+III,tetrabutylazanium chloride,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.75,0.25,293.15,1.4858,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(COCCOCCO)O
+III,tetrabutylazanium chloride,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.75,0.25,313.15,1.4806,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(COCCOCCO)O
+III,tetrabutylazanium chloride,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.75,0.25,323.15,1.4777,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(COCCOCCO)O
+III,tetrabutylazanium chloride,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.75,0.25,333.15,1.4747,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(COCCOCCO)O
+III,tetrabutylazanium chloride,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.75,0.25,353.15,1.4686,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(COCCOCCO)O
+III,tetrabutylazanium chloride,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.8,0.2,293.15,1.4871,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(COCCOCCO)O
+III,tetrabutylazanium chloride,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.8,0.2,303.15,1.4841,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(COCCOCCO)O
+III,tetrabutylazanium chloride,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.8,0.2,313.15,1.4811,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(COCCOCCO)O
+III,tetrabutylazanium chloride,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.8,0.2,323.15,1.4781,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(COCCOCCO)O
+III,tetrabutylazanium chloride,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.8,0.2,333.15,1.4752,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(COCCOCCO)O
+III,tetrabutylazanium chloride,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.8,0.2,353.15,1.4692,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(COCCOCCO)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"2,2-dihydroxyindene-1,3-dione",0.5714,0.4286,293.15,1.564233,C[N+](C)(C)CCO.[Cl-],C1=CC=C2C(=C1)C(=O)C(C2=O)(O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"2,2-dihydroxyindene-1,3-dione",0.5714,0.4286,303.15,1.56047,C[N+](C)(C)CCO.[Cl-],C1=CC=C2C(=C1)C(=O)C(C2=O)(O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"2,2-dihydroxyindene-1,3-dione",0.5714,0.4286,308.15,1.558775,C[N+](C)(C)CCO.[Cl-],C1=CC=C2C(=C1)C(=O)C(C2=O)(O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"2,2-dihydroxyindene-1,3-dione",0.5714,0.4286,313.15,1.557284,C[N+](C)(C)CCO.[Cl-],C1=CC=C2C(=C1)C(=O)C(C2=O)(O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"2,2-dihydroxyindene-1,3-dione",0.5714,0.4286,318.15,1.555942,C[N+](C)(C)CCO.[Cl-],C1=CC=C2C(=C1)C(=O)C(C2=O)(O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"2,2-dihydroxyindene-1,3-dione",0.5714,0.4286,328.15,1.553334,C[N+](C)(C)CCO.[Cl-],C1=CC=C2C(=C1)C(=O)C(C2=O)(O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"2,2-dihydroxyindene-1,3-dione",0.5714,0.4286,333.15,1.552024,C[N+](C)(C)CCO.[Cl-],C1=CC=C2C(=C1)C(=O)C(C2=O)(O)O
+III,tetrabutylazanium chloride,3-aminopropan-1-ol,0.2,0.8,293.15,1.4736,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(CN)CO
+III,tetrabutylazanium chloride,3-aminopropan-1-ol,0.2,0.8,298.15,1.4721,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(CN)CO
+III,tetrabutylazanium chloride,3-aminopropan-1-ol,0.2,0.8,303.15,1.4706,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(CN)CO
+III,tetrabutylazanium chloride,3-aminopropan-1-ol,0.2,0.8,313.15,1.4673,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(CN)CO
+III,tetrabutylazanium chloride,3-aminopropan-1-ol,0.2,0.8,318.15,1.4656,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(CN)CO
+III,tetrabutylazanium chloride,3-aminopropan-1-ol,0.2,0.8,323.15,1.4638,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(CN)CO
+III,tetrabutylazanium chloride,3-aminopropan-1-ol,0.2,0.8,333.15,1.4599,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(CN)CO
+III,tetrabutylazanium chloride,3-aminopropan-1-ol,0.1429,0.8571,293.15,1.4709,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(CN)CO
+III,tetrabutylazanium chloride,3-aminopropan-1-ol,0.1429,0.8571,298.15,1.4693,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(CN)CO
+III,tetrabutylazanium chloride,3-aminopropan-1-ol,0.1429,0.8571,303.15,1.4678,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(CN)CO
+III,tetrabutylazanium chloride,3-aminopropan-1-ol,0.1429,0.8571,308.15,1.4662,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(CN)CO
+III,tetrabutylazanium chloride,3-aminopropan-1-ol,0.1429,0.8571,313.15,1.4642,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(CN)CO
+III,tetrabutylazanium chloride,3-aminopropan-1-ol,0.1429,0.8571,323.15,1.4608,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(CN)CO
+III,tetrabutylazanium chloride,3-aminopropan-1-ol,0.1429,0.8571,333.15,1.457,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(CN)CO
+III,tetrabutylazanium chloride,3-aminopropan-1-ol,0.1111,0.8889,293.15,1.4695,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(CN)CO
+III,tetrabutylazanium chloride,3-aminopropan-1-ol,0.1111,0.8889,298.15,1.4677,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(CN)CO
+III,tetrabutylazanium chloride,3-aminopropan-1-ol,0.1111,0.8889,303.15,1.466,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(CN)CO
+III,tetrabutylazanium chloride,3-aminopropan-1-ol,0.1111,0.8889,308.15,1.4642,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(CN)CO
+III,tetrabutylazanium chloride,3-aminopropan-1-ol,0.1111,0.8889,313.15,1.4627,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(CN)CO
+III,tetrabutylazanium chloride,3-aminopropan-1-ol,0.1111,0.8889,323.15,1.4592,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(CN)CO
+III,tetrabutylazanium chloride,3-aminopropan-1-ol,0.1111,0.8889,328.15,1.4575,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(CN)CO
+III,tetrabutylazanium chloride,3-aminopropan-1-ol,0.1111,0.8889,333.15,1.4555,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(CN)CO
+III,tetraethylazanium chloride,3-aminopropan-1-ol,0.2,0.8,293.15,1.4786,CC[N+](CC)(CC)CC.[Cl-],C(CN)CO
+III,tetraethylazanium chloride,3-aminopropan-1-ol,0.2,0.8,303.15,1.4751,CC[N+](CC)(CC)CC.[Cl-],C(CN)CO
+III,tetraethylazanium chloride,3-aminopropan-1-ol,0.2,0.8,308.15,1.4732,CC[N+](CC)(CC)CC.[Cl-],C(CN)CO
+III,tetraethylazanium chloride,3-aminopropan-1-ol,0.2,0.8,318.15,1.4697,CC[N+](CC)(CC)CC.[Cl-],C(CN)CO
+III,tetraethylazanium chloride,3-aminopropan-1-ol,0.2,0.8,323.15,1.468,CC[N+](CC)(CC)CC.[Cl-],C(CN)CO
+III,tetraethylazanium chloride,3-aminopropan-1-ol,0.2,0.8,328.15,1.4665,CC[N+](CC)(CC)CC.[Cl-],C(CN)CO
+III,tetraethylazanium chloride,3-aminopropan-1-ol,0.2,0.8,333.15,1.4647,CC[N+](CC)(CC)CC.[Cl-],C(CN)CO
+III,tetraethylazanium chloride,3-aminopropan-1-ol,0.1429,0.8571,293.15,1.4733,CC[N+](CC)(CC)CC.[Cl-],C(CN)CO
+III,tetraethylazanium chloride,3-aminopropan-1-ol,0.1429,0.8571,298.15,1.4719,CC[N+](CC)(CC)CC.[Cl-],C(CN)CO
+III,tetraethylazanium chloride,3-aminopropan-1-ol,0.1429,0.8571,303.15,1.4703,CC[N+](CC)(CC)CC.[Cl-],C(CN)CO
+III,tetraethylazanium chloride,3-aminopropan-1-ol,0.1429,0.8571,313.15,1.467,CC[N+](CC)(CC)CC.[Cl-],C(CN)CO
+III,tetraethylazanium chloride,3-aminopropan-1-ol,0.1429,0.8571,318.15,1.4653,CC[N+](CC)(CC)CC.[Cl-],C(CN)CO
+III,tetraethylazanium chloride,3-aminopropan-1-ol,0.1429,0.8571,328.15,1.4622,CC[N+](CC)(CC)CC.[Cl-],C(CN)CO
+III,tetraethylazanium chloride,3-aminopropan-1-ol,0.1429,0.8571,333.15,1.4602,CC[N+](CC)(CC)CC.[Cl-],C(CN)CO
+III,tetraethylazanium chloride,3-aminopropan-1-ol,0.1111,0.8889,293.15,1.4717,CC[N+](CC)(CC)CC.[Cl-],C(CN)CO
+III,tetraethylazanium chloride,3-aminopropan-1-ol,0.1111,0.8889,298.15,1.4697,CC[N+](CC)(CC)CC.[Cl-],C(CN)CO
+III,tetraethylazanium chloride,3-aminopropan-1-ol,0.1111,0.8889,303.15,1.4678,CC[N+](CC)(CC)CC.[Cl-],C(CN)CO
+III,tetraethylazanium chloride,3-aminopropan-1-ol,0.1111,0.8889,308.15,1.4662,CC[N+](CC)(CC)CC.[Cl-],C(CN)CO
+III,tetraethylazanium chloride,3-aminopropan-1-ol,0.1111,0.8889,318.15,1.4627,CC[N+](CC)(CC)CC.[Cl-],C(CN)CO
+III,tetraethylazanium chloride,3-aminopropan-1-ol,0.1111,0.8889,328.15,1.4592,CC[N+](CC)(CC)CC.[Cl-],C(CN)CO
+III,tetraethylazanium chloride,3-aminopropan-1-ol,0.1111,0.8889,333.15,1.4576,CC[N+](CC)(CC)CC.[Cl-],C(CN)CO
+III,benzyl(tributyl)azanium chloride,2-(2-hydroxyethoxy)ethanol,0.25,0.75,283.15,1.4957,CCCC[N+](CCCC)(CCCC)CC1=CC=CC=C1.[Cl-],C(COCCO)O
+III,benzyl(tributyl)azanium chloride,2-(2-hydroxyethoxy)ethanol,0.25,0.75,288.15,1.4945,CCCC[N+](CCCC)(CCCC)CC1=CC=CC=C1.[Cl-],C(COCCO)O
+III,benzyl(tributyl)azanium chloride,2-(2-hydroxyethoxy)ethanol,0.25,0.75,293.15,1.4929,CCCC[N+](CCCC)(CCCC)CC1=CC=CC=C1.[Cl-],C(COCCO)O
+III,benzyl(tributyl)azanium chloride,2-(2-hydroxyethoxy)ethanol,0.25,0.75,298.15,1.4909,CCCC[N+](CCCC)(CCCC)CC1=CC=CC=C1.[Cl-],C(COCCO)O
+III,benzyl(tributyl)azanium chloride,2-(2-hydroxyethoxy)ethanol,0.25,0.75,303.15,1.4893,CCCC[N+](CCCC)(CCCC)CC1=CC=CC=C1.[Cl-],C(COCCO)O
+III,benzyl(tributyl)azanium chloride,2-(2-hydroxyethoxy)ethanol,0.25,0.75,313.15,1.486,CCCC[N+](CCCC)(CCCC)CC1=CC=CC=C1.[Cl-],C(COCCO)O
+III,benzyl(tributyl)azanium chloride,2-(2-hydroxyethoxy)ethanol,0.25,0.75,318.15,1.4849,CCCC[N+](CCCC)(CCCC)CC1=CC=CC=C1.[Cl-],C(COCCO)O
+III,benzyl(tributyl)azanium chloride,2-(2-hydroxyethoxy)ethanol,0.25,0.75,328.15,1.4815,CCCC[N+](CCCC)(CCCC)CC1=CC=CC=C1.[Cl-],C(COCCO)O
+III,benzyl(tributyl)azanium chloride,2-(2-hydroxyethoxy)ethanol,0.25,0.75,333.15,1.4804,CCCC[N+](CCCC)(CCCC)CC1=CC=CC=C1.[Cl-],C(COCCO)O
+III,benzyl(tributyl)azanium chloride,2-(2-hydroxyethoxy)ethanol,0.25,0.75,338.15,1.4786,CCCC[N+](CCCC)(CCCC)CC1=CC=CC=C1.[Cl-],C(COCCO)O
+III,benzyl(tributyl)azanium chloride,2-(2-hydroxyethoxy)ethanol,0.25,0.75,343.15,1.4776,CCCC[N+](CCCC)(CCCC)CC1=CC=CC=C1.[Cl-],C(COCCO)O
+III,benzyl(trimethyl)azanium chloride,2-(2-hydroxyethoxy)ethanol,0.25,0.75,283.15,1.4954,C[N+](C)(C)CC1=CC=CC=C1.[Cl-],C(COCCO)O
+III,benzyl(trimethyl)azanium chloride,2-(2-hydroxyethoxy)ethanol,0.25,0.75,288.15,1.494,C[N+](C)(C)CC1=CC=CC=C1.[Cl-],C(COCCO)O
+III,benzyl(trimethyl)azanium chloride,2-(2-hydroxyethoxy)ethanol,0.25,0.75,298.15,1.4911,C[N+](C)(C)CC1=CC=CC=C1.[Cl-],C(COCCO)O
+III,benzyl(trimethyl)azanium chloride,2-(2-hydroxyethoxy)ethanol,0.25,0.75,308.15,1.4884,C[N+](C)(C)CC1=CC=CC=C1.[Cl-],C(COCCO)O
+III,benzyl(trimethyl)azanium chloride,2-(2-hydroxyethoxy)ethanol,0.25,0.75,313.15,1.4869,C[N+](C)(C)CC1=CC=CC=C1.[Cl-],C(COCCO)O
+III,benzyl(trimethyl)azanium chloride,2-(2-hydroxyethoxy)ethanol,0.25,0.75,318.15,1.4855,C[N+](C)(C)CC1=CC=CC=C1.[Cl-],C(COCCO)O
+III,benzyl(trimethyl)azanium chloride,2-(2-hydroxyethoxy)ethanol,0.25,0.75,323.15,1.4841,C[N+](C)(C)CC1=CC=CC=C1.[Cl-],C(COCCO)O
+III,benzyl(trimethyl)azanium chloride,2-(2-hydroxyethoxy)ethanol,0.25,0.75,328.15,1.4826,C[N+](C)(C)CC1=CC=CC=C1.[Cl-],C(COCCO)O
+III,benzyl(trimethyl)azanium chloride,2-(2-hydroxyethoxy)ethanol,0.25,0.75,333.15,1.4813,C[N+](C)(C)CC1=CC=CC=C1.[Cl-],C(COCCO)O
+III,benzyl(trimethyl)azanium chloride,2-(2-hydroxyethoxy)ethanol,0.25,0.75,343.15,1.4784,C[N+](C)(C)CC1=CC=CC=C1.[Cl-],C(COCCO)O
+III,benzyl(tributyl)azanium chloride,"ethane-1,2-diol",0.25,0.75,283.15,1.4993,CCCC[N+](CCCC)(CCCC)CC1=CC=CC=C1.[Cl-],C(CO)O
+III,benzyl(tributyl)azanium chloride,"ethane-1,2-diol",0.25,0.75,288.15,1.4979,CCCC[N+](CCCC)(CCCC)CC1=CC=CC=C1.[Cl-],C(CO)O
+III,benzyl(tributyl)azanium chloride,"ethane-1,2-diol",0.25,0.75,298.15,1.4947,CCCC[N+](CCCC)(CCCC)CC1=CC=CC=C1.[Cl-],C(CO)O
+III,benzyl(tributyl)azanium chloride,"ethane-1,2-diol",0.25,0.75,303.15,1.4932,CCCC[N+](CCCC)(CCCC)CC1=CC=CC=C1.[Cl-],C(CO)O
+III,benzyl(tributyl)azanium chloride,"ethane-1,2-diol",0.25,0.75,308.15,1.4917,CCCC[N+](CCCC)(CCCC)CC1=CC=CC=C1.[Cl-],C(CO)O
+III,benzyl(tributyl)azanium chloride,"ethane-1,2-diol",0.25,0.75,313.15,1.4901,CCCC[N+](CCCC)(CCCC)CC1=CC=CC=C1.[Cl-],C(CO)O
+III,benzyl(tributyl)azanium chloride,"ethane-1,2-diol",0.25,0.75,318.15,1.4886,CCCC[N+](CCCC)(CCCC)CC1=CC=CC=C1.[Cl-],C(CO)O
+III,benzyl(tributyl)azanium chloride,"ethane-1,2-diol",0.25,0.75,323.15,1.4871,CCCC[N+](CCCC)(CCCC)CC1=CC=CC=C1.[Cl-],C(CO)O
+III,benzyl(tributyl)azanium chloride,"ethane-1,2-diol",0.25,0.75,333.15,1.484,CCCC[N+](CCCC)(CCCC)CC1=CC=CC=C1.[Cl-],C(CO)O
+III,benzyl(tributyl)azanium chloride,"ethane-1,2-diol",0.25,0.75,338.15,1.4825,CCCC[N+](CCCC)(CCCC)CC1=CC=CC=C1.[Cl-],C(CO)O
+III,benzyl(tributyl)azanium chloride,"ethane-1,2-diol",0.25,0.75,343.15,1.4809,CCCC[N+](CCCC)(CCCC)CC1=CC=CC=C1.[Cl-],C(CO)O
+III,benzyl(trimethyl)azanium chloride,"ethane-1,2-diol",0.25,0.75,283.15,1.4995,C[N+](C)(C)CC1=CC=CC=C1.[Cl-],C(CO)O
+III,benzyl(trimethyl)azanium chloride,"ethane-1,2-diol",0.25,0.75,288.15,1.498,C[N+](C)(C)CC1=CC=CC=C1.[Cl-],C(CO)O
+III,benzyl(trimethyl)azanium chloride,"ethane-1,2-diol",0.25,0.75,293.15,1.4966,C[N+](C)(C)CC1=CC=CC=C1.[Cl-],C(CO)O
+III,benzyl(trimethyl)azanium chloride,"ethane-1,2-diol",0.25,0.75,303.15,1.4935,C[N+](C)(C)CC1=CC=CC=C1.[Cl-],C(CO)O
+III,benzyl(trimethyl)azanium chloride,"ethane-1,2-diol",0.25,0.75,308.15,1.4921,C[N+](C)(C)CC1=CC=CC=C1.[Cl-],C(CO)O
+III,benzyl(trimethyl)azanium chloride,"ethane-1,2-diol",0.25,0.75,313.15,1.4907,C[N+](C)(C)CC1=CC=CC=C1.[Cl-],C(CO)O
+III,benzyl(trimethyl)azanium chloride,"ethane-1,2-diol",0.25,0.75,318.15,1.4893,C[N+](C)(C)CC1=CC=CC=C1.[Cl-],C(CO)O
+III,benzyl(trimethyl)azanium chloride,"ethane-1,2-diol",0.25,0.75,323.15,1.4878,C[N+](C)(C)CC1=CC=CC=C1.[Cl-],C(CO)O
+III,benzyl(trimethyl)azanium chloride,"ethane-1,2-diol",0.25,0.75,328.15,1.4864,C[N+](C)(C)CC1=CC=CC=C1.[Cl-],C(CO)O
+III,benzyl(trimethyl)azanium chloride,"ethane-1,2-diol",0.25,0.75,333.15,1.4849,C[N+](C)(C)CC1=CC=CC=C1.[Cl-],C(CO)O
+III,benzyl(trimethyl)azanium chloride,"ethane-1,2-diol",0.25,0.75,343.15,1.482,C[N+](C)(C)CC1=CC=CC=C1.[Cl-],C(CO)O
+III,benzyl(tributyl)azanium chloride,"propane-1,2,3-triol",0.25,0.75,283.15,1.5095,CCCC[N+](CCCC)(CCCC)CC1=CC=CC=C1.[Cl-],C(C(CO)O)O
+III,benzyl(tributyl)azanium chloride,"propane-1,2,3-triol",0.25,0.75,293.15,1.5065,CCCC[N+](CCCC)(CCCC)CC1=CC=CC=C1.[Cl-],C(C(CO)O)O
+III,benzyl(tributyl)azanium chloride,"propane-1,2,3-triol",0.25,0.75,298.15,1.5051,CCCC[N+](CCCC)(CCCC)CC1=CC=CC=C1.[Cl-],C(C(CO)O)O
+III,benzyl(tributyl)azanium chloride,"propane-1,2,3-triol",0.25,0.75,303.15,1.5036,CCCC[N+](CCCC)(CCCC)CC1=CC=CC=C1.[Cl-],C(C(CO)O)O
+III,benzyl(tributyl)azanium chloride,"propane-1,2,3-triol",0.25,0.75,308.15,1.5021,CCCC[N+](CCCC)(CCCC)CC1=CC=CC=C1.[Cl-],C(C(CO)O)O
+III,benzyl(tributyl)azanium chloride,"propane-1,2,3-triol",0.25,0.75,313.15,1.5006,CCCC[N+](CCCC)(CCCC)CC1=CC=CC=C1.[Cl-],C(C(CO)O)O
+III,benzyl(tributyl)azanium chloride,"propane-1,2,3-triol",0.25,0.75,323.15,1.4977,CCCC[N+](CCCC)(CCCC)CC1=CC=CC=C1.[Cl-],C(C(CO)O)O
+III,benzyl(tributyl)azanium chloride,"propane-1,2,3-triol",0.25,0.75,328.15,1.4962,CCCC[N+](CCCC)(CCCC)CC1=CC=CC=C1.[Cl-],C(C(CO)O)O
+III,benzyl(tributyl)azanium chloride,"propane-1,2,3-triol",0.25,0.75,333.15,1.4948,CCCC[N+](CCCC)(CCCC)CC1=CC=CC=C1.[Cl-],C(C(CO)O)O
+III,benzyl(tributyl)azanium chloride,"propane-1,2,3-triol",0.25,0.75,338.15,1.4933,CCCC[N+](CCCC)(CCCC)CC1=CC=CC=C1.[Cl-],C(C(CO)O)O
+III,benzyl(tributyl)azanium chloride,"propane-1,2,3-triol",0.25,0.75,343.15,1.4917,CCCC[N+](CCCC)(CCCC)CC1=CC=CC=C1.[Cl-],C(C(CO)O)O
+III,benzyl(trimethyl)azanium chloride,"propane-1,2,3-triol",0.25,0.75,288.15,1.5114,C[N+](C)(C)CC1=CC=CC=C1.[Cl-],C(C(CO)O)O
+III,benzyl(trimethyl)azanium chloride,"propane-1,2,3-triol",0.25,0.75,293.15,1.5102,C[N+](C)(C)CC1=CC=CC=C1.[Cl-],C(C(CO)O)O
+III,benzyl(trimethyl)azanium chloride,"propane-1,2,3-triol",0.25,0.75,303.15,1.5078,C[N+](C)(C)CC1=CC=CC=C1.[Cl-],C(C(CO)O)O
+III,benzyl(trimethyl)azanium chloride,"propane-1,2,3-triol",0.25,0.75,308.15,1.5064,C[N+](C)(C)CC1=CC=CC=C1.[Cl-],C(C(CO)O)O
+III,benzyl(trimethyl)azanium chloride,"propane-1,2,3-triol",0.25,0.75,313.15,1.5052,C[N+](C)(C)CC1=CC=CC=C1.[Cl-],C(C(CO)O)O
+III,benzyl(trimethyl)azanium chloride,"propane-1,2,3-triol",0.25,0.75,318.15,1.5039,C[N+](C)(C)CC1=CC=CC=C1.[Cl-],C(C(CO)O)O
+III,benzyl(trimethyl)azanium chloride,"propane-1,2,3-triol",0.25,0.75,323.15,1.5027,C[N+](C)(C)CC1=CC=CC=C1.[Cl-],C(C(CO)O)O
+III,benzyl(trimethyl)azanium chloride,"propane-1,2,3-triol",0.25,0.75,328.15,1.5014,C[N+](C)(C)CC1=CC=CC=C1.[Cl-],C(C(CO)O)O
+III,benzyl(trimethyl)azanium chloride,"propane-1,2,3-triol",0.25,0.75,338.15,1.4989,C[N+](C)(C)CC1=CC=CC=C1.[Cl-],C(C(CO)O)O
+III,benzyl(trimethyl)azanium chloride,"propane-1,2,3-triol",0.25,0.75,343.15,1.4977,C[N+](C)(C)CC1=CC=CC=C1.[Cl-],C(C(CO)O)O
+III,benzyl(tributyl)azanium chloride,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.25,0.75,283.15,1.4936,CCCC[N+](CCCC)(CCCC)CC1=CC=CC=C1.[Cl-],C(COCCOCCO)O
+III,benzyl(tributyl)azanium chloride,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.25,0.75,293.15,1.4906,CCCC[N+](CCCC)(CCCC)CC1=CC=CC=C1.[Cl-],C(COCCOCCO)O
+III,benzyl(tributyl)azanium chloride,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.25,0.75,298.15,1.4889,CCCC[N+](CCCC)(CCCC)CC1=CC=CC=C1.[Cl-],C(COCCOCCO)O
+III,benzyl(tributyl)azanium chloride,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.25,0.75,303.15,1.4874,CCCC[N+](CCCC)(CCCC)CC1=CC=CC=C1.[Cl-],C(COCCOCCO)O
+III,benzyl(tributyl)azanium chloride,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.25,0.75,308.15,1.4857,CCCC[N+](CCCC)(CCCC)CC1=CC=CC=C1.[Cl-],C(COCCOCCO)O
+III,benzyl(tributyl)azanium chloride,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.25,0.75,313.15,1.4842,CCCC[N+](CCCC)(CCCC)CC1=CC=CC=C1.[Cl-],C(COCCOCCO)O
+III,benzyl(tributyl)azanium chloride,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.25,0.75,323.15,1.4811,CCCC[N+](CCCC)(CCCC)CC1=CC=CC=C1.[Cl-],C(COCCOCCO)O
+III,benzyl(tributyl)azanium chloride,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.25,0.75,333.15,1.4779,CCCC[N+](CCCC)(CCCC)CC1=CC=CC=C1.[Cl-],C(COCCOCCO)O
+III,benzyl(tributyl)azanium chloride,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.25,0.75,338.15,1.4764,CCCC[N+](CCCC)(CCCC)CC1=CC=CC=C1.[Cl-],C(COCCOCCO)O
+III,benzyl(tributyl)azanium chloride,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.25,0.75,343.15,1.4748,CCCC[N+](CCCC)(CCCC)CC1=CC=CC=C1.[Cl-],C(COCCOCCO)O
+III,benzyl(trimethyl)azanium chloride,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.25,0.75,283.15,1.4923,C[N+](C)(C)CC1=CC=CC=C1.[Cl-],C(COCCOCCO)O
+III,benzyl(trimethyl)azanium chloride,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.25,0.75,288.15,1.4908,C[N+](C)(C)CC1=CC=CC=C1.[Cl-],C(COCCOCCO)O
+III,benzyl(trimethyl)azanium chloride,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.25,0.75,293.15,1.4894,C[N+](C)(C)CC1=CC=CC=C1.[Cl-],C(COCCOCCO)O
+III,benzyl(trimethyl)azanium chloride,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.25,0.75,298.15,1.488,C[N+](C)(C)CC1=CC=CC=C1.[Cl-],C(COCCOCCO)O
+III,benzyl(trimethyl)azanium chloride,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.25,0.75,308.15,1.4849,C[N+](C)(C)CC1=CC=CC=C1.[Cl-],C(COCCOCCO)O
+III,benzyl(trimethyl)azanium chloride,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.25,0.75,313.15,1.4836,C[N+](C)(C)CC1=CC=CC=C1.[Cl-],C(COCCOCCO)O
+III,benzyl(trimethyl)azanium chloride,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.25,0.75,318.15,1.4821,C[N+](C)(C)CC1=CC=CC=C1.[Cl-],C(COCCOCCO)O
+III,benzyl(trimethyl)azanium chloride,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.25,0.75,328.15,1.4792,C[N+](C)(C)CC1=CC=CC=C1.[Cl-],C(COCCOCCO)O
+III,benzyl(trimethyl)azanium chloride,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.25,0.75,333.15,1.4778,C[N+](C)(C)CC1=CC=CC=C1.[Cl-],C(COCCOCCO)O
+III,benzyl(trimethyl)azanium chloride,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.25,0.75,338.15,1.4763,C[N+](C)(C)CC1=CC=CC=C1.[Cl-],C(COCCOCCO)O
+III,benzyl(trimethyl)azanium chloride,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.25,0.75,343.15,1.4749,C[N+](C)(C)CC1=CC=CC=C1.[Cl-],C(COCCOCCO)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,4-oxopentanoic acid,0.3333,0.6667,293.15,1.46987,C[N+](C)(C)CCO.[Cl-],CC(=O)CCC(=O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,4-oxopentanoic acid,0.3333,0.6667,303.15,1.4673,C[N+](C)(C)CCO.[Cl-],CC(=O)CCC(=O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,4-oxopentanoic acid,0.3333,0.6667,308.15,1.46595,C[N+](C)(C)CCO.[Cl-],CC(=O)CCC(=O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,4-oxopentanoic acid,0.3333,0.6667,313.15,1.46457,C[N+](C)(C)CCO.[Cl-],CC(=O)CCC(=O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,4-oxopentanoic acid,0.3333,0.6667,323.15,1.4618,C[N+](C)(C)CCO.[Cl-],CC(=O)CCC(=O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,4-oxopentanoic acid,0.3333,0.6667,328.15,1.46041,C[N+](C)(C)CCO.[Cl-],CC(=O)CCC(=O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,4-oxopentanoic acid,0.3333,0.6667,338.15,1.45761,C[N+](C)(C)CCO.[Cl-],CC(=O)CCC(=O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,4-oxopentanoic acid,0.3333,0.6667,343.15,1.45623,C[N+](C)(C)CCO.[Cl-],CC(=O)CCC(=O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,urea,0.3333,0.6667,293.15,1.5066,C[N+](C)(C)CCO.[Cl-],C(=O)(N)N
+III,2-hydroxyethyl(trimethyl)azanium chloride,urea,0.3333,0.6667,298.15,1.5066,C[N+](C)(C)CCO.[Cl-],C(=O)(N)N
+III,2-hydroxyethyl(trimethyl)azanium chloride,urea,0.3333,0.6667,303.15,1.5042,C[N+](C)(C)CCO.[Cl-],C(=O)(N)N
+III,2-hydroxyethyl(trimethyl)azanium chloride,urea,0.3333,0.6667,313.15,1.5019,C[N+](C)(C)CCO.[Cl-],C(=O)(N)N
+III,2-hydroxyethyl(trimethyl)azanium chloride,urea,0.3333,0.6667,318.15,1.5007,C[N+](C)(C)CCO.[Cl-],C(=O)(N)N
+III,2-hydroxyethyl(trimethyl)azanium chloride,urea,0.3333,0.6667,323.15,1.4995,C[N+](C)(C)CCO.[Cl-],C(=O)(N)N
+III,2-hydroxyethyl(trimethyl)azanium chloride,"propane-1,2-diol",0.25,0.75,288.15,1.46278,C[N+](C)(C)CCO.[Cl-],CC(CO)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"propane-1,2-diol",0.25,0.75,298.15,1.45995,C[N+](C)(C)CCO.[Cl-],CC(CO)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"propane-1,2-diol",0.25,0.75,303.15,1.45853,C[N+](C)(C)CCO.[Cl-],CC(CO)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"propane-1,2-diol",0.25,0.75,308.15,1.45708,C[N+](C)(C)CCO.[Cl-],CC(CO)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"propane-1,2-diol",0.25,0.75,313.15,1.45561,C[N+](C)(C)CCO.[Cl-],CC(CO)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"propane-1,2-diol",0.25,0.75,323.15,1.45275,C[N+](C)(C)CCO.[Cl-],CC(CO)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"propane-1,2-diol",0.25,0.75,328.15,1.45131,C[N+](C)(C)CCO.[Cl-],CC(CO)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"propane-1,2-diol",0.25,0.75,333.15,1.45012,C[N+](C)(C)CCO.[Cl-],CC(CO)O
+III,tetrabutylazanium chloride,(2S)-2-amino-5-(diaminomethylideneamino)pentanoic acid,0.8571,0.1429,303.15,1.492,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(C[C@@H](C(=O)O)N)CN=C(N)N
+III,tetrabutylazanium chloride,(2S)-2-amino-5-(diaminomethylideneamino)pentanoic acid,0.8571,0.1429,313.15,1.4892,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(C[C@@H](C(=O)O)N)CN=C(N)N
+III,tetrabutylazanium chloride,(2S)-2-amino-5-(diaminomethylideneamino)pentanoic acid,0.8571,0.1429,323.15,1.4863,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(C[C@@H](C(=O)O)N)CN=C(N)N
+III,tetrabutylazanium chloride,(2S)-2-amino-5-(diaminomethylideneamino)pentanoic acid,0.8571,0.1429,343.15,1.4805,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(C[C@@H](C(=O)O)N)CN=C(N)N
+III,tetrabutylazanium chloride,(2S)-2-amino-5-(diaminomethylideneamino)pentanoic acid,0.8571,0.1429,353.15,1.4775,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(C[C@@H](C(=O)O)N)CN=C(N)N
+III,tetrabutylazanium chloride,(2S)-2-amino-5-(diaminomethylideneamino)pentanoic acid,0.875,0.125,303.15,1.4916,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(C[C@@H](C(=O)O)N)CN=C(N)N
+III,tetrabutylazanium chloride,(2S)-2-amino-5-(diaminomethylideneamino)pentanoic acid,0.875,0.125,323.15,1.4861,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(C[C@@H](C(=O)O)N)CN=C(N)N
+III,tetrabutylazanium chloride,(2S)-2-amino-5-(diaminomethylideneamino)pentanoic acid,0.875,0.125,333.15,1.4833,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(C[C@@H](C(=O)O)N)CN=C(N)N
+III,tetrabutylazanium chloride,(2S)-2-amino-5-(diaminomethylideneamino)pentanoic acid,0.875,0.125,343.15,1.4806,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(C[C@@H](C(=O)O)N)CN=C(N)N
+III,tetrabutylazanium chloride,(2S)-2-amino-5-(diaminomethylideneamino)pentanoic acid,0.875,0.125,353.15,1.4778,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(C[C@@H](C(=O)O)N)CN=C(N)N
+III,tetrabutylazanium chloride,(2S)-2-amino-5-(diaminomethylideneamino)pentanoic acid,0.8889,0.1111,303.15,1.4911,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(C[C@@H](C(=O)O)N)CN=C(N)N
+III,tetrabutylazanium chloride,(2S)-2-amino-5-(diaminomethylideneamino)pentanoic acid,0.8889,0.1111,313.15,1.4883,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(C[C@@H](C(=O)O)N)CN=C(N)N
+III,tetrabutylazanium chloride,(2S)-2-amino-5-(diaminomethylideneamino)pentanoic acid,0.8889,0.1111,333.15,1.4825,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(C[C@@H](C(=O)O)N)CN=C(N)N
+III,tetrabutylazanium chloride,(2S)-2-amino-5-(diaminomethylideneamino)pentanoic acid,0.8889,0.1111,353.15,1.4767,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(C[C@@H](C(=O)O)N)CN=C(N)N
+III,tetrabutylazanium chloride,(2S)-2-aminobutanedioic acid,0.9,0.1,303.15,1.4811,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C([C@@H](C(=O)O)N)C(=O)O
+III,tetrabutylazanium chloride,(2S)-2-aminobutanedioic acid,0.9,0.1,313.15,1.478,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C([C@@H](C(=O)O)N)C(=O)O
+III,tetrabutylazanium chloride,(2S)-2-aminobutanedioic acid,0.9,0.1,323.15,1.475,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C([C@@H](C(=O)O)N)C(=O)O
+III,tetrabutylazanium chloride,(2S)-2-aminobutanedioic acid,0.9,0.1,333.15,1.4717,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C([C@@H](C(=O)O)N)C(=O)O
+III,tetrabutylazanium chloride,(2S)-2-aminobutanedioic acid,0.9,0.1,343.15,1.4683,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C([C@@H](C(=O)O)N)C(=O)O
+III,tetrabutylazanium chloride,(2S)-2-aminobutanedioic acid,0.9091,0.0909,303.15,1.4812,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C([C@@H](C(=O)O)N)C(=O)O
+III,tetrabutylazanium chloride,(2S)-2-aminobutanedioic acid,0.9091,0.0909,313.15,1.4781,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C([C@@H](C(=O)O)N)C(=O)O
+III,tetrabutylazanium chloride,(2S)-2-aminobutanedioic acid,0.9091,0.0909,323.15,1.4751,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C([C@@H](C(=O)O)N)C(=O)O
+III,tetrabutylazanium chloride,(2S)-2-aminobutanedioic acid,0.9091,0.0909,333.15,1.472,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C([C@@H](C(=O)O)N)C(=O)O
+III,tetrabutylazanium chloride,(2S)-2-aminobutanedioic acid,0.9091,0.0909,353.15,1.466,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C([C@@H](C(=O)O)N)C(=O)O
+III,tetrabutylazanium chloride,(2S)-2-aminobutanedioic acid,0.9167,0.0833,303.15,1.4799,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C([C@@H](C(=O)O)N)C(=O)O
+III,tetrabutylazanium chloride,(2S)-2-aminobutanedioic acid,0.9167,0.0833,323.15,1.4745,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C([C@@H](C(=O)O)N)C(=O)O
+III,tetrabutylazanium chloride,(2S)-2-aminobutanedioic acid,0.9167,0.0833,333.15,1.4708,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C([C@@H](C(=O)O)N)C(=O)O
+III,tetrabutylazanium chloride,(2S)-2-aminobutanedioic acid,0.9167,0.0833,343.15,1.4679,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C([C@@H](C(=O)O)N)C(=O)O
+III,tetrabutylazanium chloride,(2S)-2-aminobutanedioic acid,0.9167,0.0833,353.15,1.4655,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C([C@@H](C(=O)O)N)C(=O)O
+III,tetrabutylazanium chloride,(2S)-2-aminopentanedioic acid,0.8889,0.1111,313.15,1.4774,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(CC(=O)O)[C@@H](C(=O)O)N
+III,tetrabutylazanium chloride,(2S)-2-aminopentanedioic acid,0.8889,0.1111,323.15,1.474,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(CC(=O)O)[C@@H](C(=O)O)N
+III,tetrabutylazanium chloride,(2S)-2-aminopentanedioic acid,0.8889,0.1111,333.15,1.4706,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(CC(=O)O)[C@@H](C(=O)O)N
+III,tetrabutylazanium chloride,(2S)-2-aminopentanedioic acid,0.8889,0.1111,343.15,1.4675,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(CC(=O)O)[C@@H](C(=O)O)N
+III,tetrabutylazanium chloride,(2S)-2-aminopentanedioic acid,0.8889,0.1111,353.15,1.465,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(CC(=O)O)[C@@H](C(=O)O)N
+III,tetrabutylazanium chloride,(2S)-2-aminopentanedioic acid,0.9,0.1,303.15,1.4805,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(CC(=O)O)[C@@H](C(=O)O)N
+III,tetrabutylazanium chloride,(2S)-2-aminopentanedioic acid,0.9,0.1,313.15,1.4775,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(CC(=O)O)[C@@H](C(=O)O)N
+III,tetrabutylazanium chloride,(2S)-2-aminopentanedioic acid,0.9,0.1,333.15,1.4708,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(CC(=O)O)[C@@H](C(=O)O)N
+III,tetrabutylazanium chloride,(2S)-2-aminopentanedioic acid,0.9,0.1,343.15,1.4679,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(CC(=O)O)[C@@H](C(=O)O)N
+III,tetrabutylazanium chloride,(2S)-2-aminopentanedioic acid,0.9,0.1,353.15,1.4652,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(CC(=O)O)[C@@H](C(=O)O)N
+III,tetrabutylazanium chloride,(2S)-2-aminopentanedioic acid,0.9091,0.0909,313.15,1.4782,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(CC(=O)O)[C@@H](C(=O)O)N
+III,tetrabutylazanium chloride,(2S)-2-aminopentanedioic acid,0.9091,0.0909,323.15,1.4749,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(CC(=O)O)[C@@H](C(=O)O)N
+III,tetrabutylazanium chloride,(2S)-2-aminopentanedioic acid,0.9091,0.0909,333.15,1.472,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(CC(=O)O)[C@@H](C(=O)O)N
+III,tetrabutylazanium chloride,(2S)-2-aminopentanedioic acid,0.9091,0.0909,343.15,1.4689,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(CC(=O)O)[C@@H](C(=O)O)N
+III,tetrabutylazanium chloride,(2S)-2-aminopentanedioic acid,0.9091,0.0909,353.15,1.4662,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(CC(=O)O)[C@@H](C(=O)O)N
+III,2-hydroxyethyl(trimethyl)azanium chloride,2-aminoethanol,0.1667,0.8333,308.15,1.47998,C[N+](C)(C)CCO.[Cl-],C(CO)N
+III,2-hydroxyethyl(trimethyl)azanium chloride,2-aminoethanol,0.1667,0.8333,318.15,1.47623,C[N+](C)(C)CCO.[Cl-],C(CO)N
+III,2-hydroxyethyl(trimethyl)azanium chloride,2-aminoethanol,0.1667,0.8333,328.15,1.47257,C[N+](C)(C)CCO.[Cl-],C(CO)N
+III,2-hydroxyethyl(trimethyl)azanium chloride,2-aminoethanol,0.1667,0.8333,348.15,1.46421,C[N+](C)(C)CCO.[Cl-],C(CO)N
+III,2-hydroxyethyl(trimethyl)azanium chloride,2-aminoethanol,0.1667,0.8333,358.15,1.46031,C[N+](C)(C)CCO.[Cl-],C(CO)N
+III,2-hydroxyethyl(trimethyl)azanium chloride,2-aminoethanol,0.1429,0.8571,298.15,1.48117,C[N+](C)(C)CCO.[Cl-],C(CO)N
+III,2-hydroxyethyl(trimethyl)azanium chloride,2-aminoethanol,0.1429,0.8571,308.15,1.47797,C[N+](C)(C)CCO.[Cl-],C(CO)N
+III,2-hydroxyethyl(trimethyl)azanium chloride,2-aminoethanol,0.1429,0.8571,328.15,1.47101,C[N+](C)(C)CCO.[Cl-],C(CO)N
+III,2-hydroxyethyl(trimethyl)azanium chloride,2-aminoethanol,0.1429,0.8571,338.15,1.46761,C[N+](C)(C)CCO.[Cl-],C(CO)N
+III,2-hydroxyethyl(trimethyl)azanium chloride,2-aminoethanol,0.1429,0.8571,358.15,1.46049,C[N+](C)(C)CCO.[Cl-],C(CO)N
+III,2-hydroxyethyl(trimethyl)azanium chloride,2-aminoethanol,0.125,0.875,298.15,1.47875,C[N+](C)(C)CCO.[Cl-],C(CO)N
+III,2-hydroxyethyl(trimethyl)azanium chloride,2-aminoethanol,0.125,0.875,308.15,1.47541,C[N+](C)(C)CCO.[Cl-],C(CO)N
+III,2-hydroxyethyl(trimethyl)azanium chloride,2-aminoethanol,0.125,0.875,318.15,1.47217,C[N+](C)(C)CCO.[Cl-],C(CO)N
+III,2-hydroxyethyl(trimethyl)azanium chloride,2-aminoethanol,0.125,0.875,328.15,1.46908,C[N+](C)(C)CCO.[Cl-],C(CO)N
+III,2-hydroxyethyl(trimethyl)azanium chloride,2-aminoethanol,0.125,0.875,338.15,1.46539,C[N+](C)(C)CCO.[Cl-],C(CO)N
+III,2-hydroxyethyl(trimethyl)azanium chloride,2-aminoethanol,0.125,0.875,358.15,1.45833,C[N+](C)(C)CCO.[Cl-],C(CO)N
+III,2-hydroxyethyl(trimethyl)azanium chloride,2-aminoethanol,0.1111,0.8889,298.15,1.47733,C[N+](C)(C)CCO.[Cl-],C(CO)N
+III,2-hydroxyethyl(trimethyl)azanium chloride,2-aminoethanol,0.1111,0.8889,318.15,1.47092,C[N+](C)(C)CCO.[Cl-],C(CO)N
+III,2-hydroxyethyl(trimethyl)azanium chloride,2-aminoethanol,0.1111,0.8889,328.15,1.46759,C[N+](C)(C)CCO.[Cl-],C(CO)N
+III,2-hydroxyethyl(trimethyl)azanium chloride,2-aminoethanol,0.1111,0.8889,338.15,1.46419,C[N+](C)(C)CCO.[Cl-],C(CO)N
+III,2-hydroxyethyl(trimethyl)azanium chloride,2-aminoethanol,0.1111,0.8889,348.15,1.46095,C[N+](C)(C)CCO.[Cl-],C(CO)N
+III,2-hydroxyethyl(trimethyl)azanium chloride,2-aminoethanol,0.1111,0.8889,358.15,1.45742,C[N+](C)(C)CCO.[Cl-],C(CO)N
+III,benzyl(tripropyl)azanium chloride,"ethane-1,2-diol",0.25,0.75,293.15,1.4981,CCC[N+](CCC)(CCC)CC1=CC=CC=C1.[Cl-],C(CO)O
+III,benzyl(tripropyl)azanium chloride,"ethane-1,2-diol",0.25,0.75,303.15,1.4952,CCC[N+](CCC)(CCC)CC1=CC=CC=C1.[Cl-],C(CO)O
+III,benzyl(tripropyl)azanium chloride,"ethane-1,2-diol",0.25,0.75,308.15,1.4939,CCC[N+](CCC)(CCC)CC1=CC=CC=C1.[Cl-],C(CO)O
+III,benzyl(tripropyl)azanium chloride,"ethane-1,2-diol",0.25,0.75,313.15,1.4924,CCC[N+](CCC)(CCC)CC1=CC=CC=C1.[Cl-],C(CO)O
+III,benzyl(tripropyl)azanium chloride,"ethane-1,2-diol",0.25,0.75,323.15,1.4895,CCC[N+](CCC)(CCC)CC1=CC=CC=C1.[Cl-],C(CO)O
+III,benzyl(tripropyl)azanium chloride,"ethane-1,2-diol",0.25,0.75,328.15,1.4879,CCC[N+](CCC)(CCC)CC1=CC=CC=C1.[Cl-],C(CO)O
+III,benzyl(tripropyl)azanium chloride,"ethane-1,2-diol",0.25,0.75,333.15,1.4864,CCC[N+](CCC)(CCC)CC1=CC=CC=C1.[Cl-],C(CO)O
+III,benzyl(tripropyl)azanium chloride,"ethane-1,2-diol",0.25,0.75,338.15,1.4849,CCC[N+](CCC)(CCC)CC1=CC=CC=C1.[Cl-],C(CO)O
+III,benzyl(tripropyl)azanium chloride,"ethane-1,2-diol",0.25,0.75,343.15,1.4831,CCC[N+](CCC)(CCC)CC1=CC=CC=C1.[Cl-],C(CO)O
+III,benzyl(tripropyl)azanium chloride,"propane-1,2,3-triol",0.25,0.75,298.15,1.5036,CCC[N+](CCC)(CCC)CC1=CC=CC=C1.[Cl-],C(C(CO)O)O
+III,benzyl(tripropyl)azanium chloride,"propane-1,2,3-triol",0.25,0.75,303.15,1.5026,CCC[N+](CCC)(CCC)CC1=CC=CC=C1.[Cl-],C(C(CO)O)O
+III,benzyl(tripropyl)azanium chloride,"propane-1,2,3-triol",0.25,0.75,313.15,1.4999,CCC[N+](CCC)(CCC)CC1=CC=CC=C1.[Cl-],C(C(CO)O)O
+III,benzyl(tripropyl)azanium chloride,"propane-1,2,3-triol",0.25,0.75,318.15,1.4982,CCC[N+](CCC)(CCC)CC1=CC=CC=C1.[Cl-],C(C(CO)O)O
+III,benzyl(tripropyl)azanium chloride,"propane-1,2,3-triol",0.25,0.75,323.15,1.4966,CCC[N+](CCC)(CCC)CC1=CC=CC=C1.[Cl-],C(C(CO)O)O
+III,benzyl(tripropyl)azanium chloride,"propane-1,2,3-triol",0.25,0.75,328.15,1.4953,CCC[N+](CCC)(CCC)CC1=CC=CC=C1.[Cl-],C(C(CO)O)O
+III,benzyl(tripropyl)azanium chloride,"propane-1,2,3-triol",0.25,0.75,333.15,1.4936,CCC[N+](CCC)(CCC)CC1=CC=CC=C1.[Cl-],C(C(CO)O)O
+III,benzyl(tripropyl)azanium chloride,"propane-1,2,3-triol",0.25,0.75,338.15,1.4922,CCC[N+](CCC)(CCC)CC1=CC=CC=C1.[Cl-],C(C(CO)O)O
+III,benzyl(tripropyl)azanium chloride,2-hydroxypropanoic acid,0.25,0.75,293.15,1.4944,CCC[N+](CCC)(CCC)CC1=CC=CC=C1.[Cl-],CC(C(=O)O)O
+III,benzyl(tripropyl)azanium chloride,2-hydroxypropanoic acid,0.25,0.75,298.15,1.4926,CCC[N+](CCC)(CCC)CC1=CC=CC=C1.[Cl-],CC(C(=O)O)O
+III,benzyl(tripropyl)azanium chloride,2-hydroxypropanoic acid,0.25,0.75,308.15,1.4892,CCC[N+](CCC)(CCC)CC1=CC=CC=C1.[Cl-],CC(C(=O)O)O
+III,benzyl(tripropyl)azanium chloride,2-hydroxypropanoic acid,0.25,0.75,313.15,1.4876,CCC[N+](CCC)(CCC)CC1=CC=CC=C1.[Cl-],CC(C(=O)O)O
+III,benzyl(tripropyl)azanium chloride,2-hydroxypropanoic acid,0.25,0.75,318.15,1.4858,CCC[N+](CCC)(CCC)CC1=CC=CC=C1.[Cl-],CC(C(=O)O)O
+III,benzyl(tripropyl)azanium chloride,2-hydroxypropanoic acid,0.25,0.75,323.15,1.4844,CCC[N+](CCC)(CCC)CC1=CC=CC=C1.[Cl-],CC(C(=O)O)O
+III,benzyl(tripropyl)azanium chloride,2-hydroxypropanoic acid,0.25,0.75,328.15,1.4824,CCC[N+](CCC)(CCC)CC1=CC=CC=C1.[Cl-],CC(C(=O)O)O
+III,benzyl(tripropyl)azanium chloride,2-hydroxypropanoic acid,0.25,0.75,333.15,1.4811,CCC[N+](CCC)(CCC)CC1=CC=CC=C1.[Cl-],CC(C(=O)O)O
+III,benzyl(tripropyl)azanium chloride,2-hydroxypropanoic acid,0.25,0.75,338.15,1.4791,CCC[N+](CCC)(CCC)CC1=CC=CC=C1.[Cl-],CC(C(=O)O)O
+III,benzyl(tripropyl)azanium chloride,phenol,0.25,0.75,293.15,1.5486,CCC[N+](CCC)(CCC)CC1=CC=CC=C1.[Cl-],C1=CC=C(C=C1)O
+III,benzyl(tripropyl)azanium chloride,phenol,0.25,0.75,298.15,1.5471,CCC[N+](CCC)(CCC)CC1=CC=CC=C1.[Cl-],C1=CC=C(C=C1)O
+III,benzyl(tripropyl)azanium chloride,phenol,0.25,0.75,303.15,1.5452,CCC[N+](CCC)(CCC)CC1=CC=CC=C1.[Cl-],C1=CC=C(C=C1)O
+III,benzyl(tripropyl)azanium chloride,phenol,0.25,0.75,308.15,1.5436,CCC[N+](CCC)(CCC)CC1=CC=CC=C1.[Cl-],C1=CC=C(C=C1)O
+III,benzyl(tripropyl)azanium chloride,phenol,0.25,0.75,318.15,1.5403,CCC[N+](CCC)(CCC)CC1=CC=CC=C1.[Cl-],C1=CC=C(C=C1)O
+III,benzyl(tripropyl)azanium chloride,phenol,0.25,0.75,328.15,1.5369,CCC[N+](CCC)(CCC)CC1=CC=CC=C1.[Cl-],C1=CC=C(C=C1)O
+III,benzyl(tripropyl)azanium chloride,phenol,0.25,0.75,333.15,1.5352,CCC[N+](CCC)(CCC)CC1=CC=CC=C1.[Cl-],C1=CC=C(C=C1)O
+III,benzyl(tripropyl)azanium chloride,phenol,0.25,0.75,338.15,1.5334,CCC[N+](CCC)(CCC)CC1=CC=CC=C1.[Cl-],C1=CC=C(C=C1)O
+III,benzyl(tripropyl)azanium chloride,phenol,0.25,0.75,343.15,1.5317,CCC[N+](CCC)(CCC)CC1=CC=CC=C1.[Cl-],C1=CC=C(C=C1)O
+III,benzyl(triphenyl)phosphanium chloride,"ethane-1,2-diol",0.25,0.75,328.15,1.5258,C1=CC=C(C=C1)C[P+](C2=CC=CC=C2)(C3=CC=CC=C3)C4=CC=CC=C4.[Cl-],C(CO)O
+III,benzyl(triphenyl)phosphanium chloride,"ethane-1,2-diol",0.25,0.75,338.15,1.5309,C1=CC=C(C=C1)C[P+](C2=CC=CC=C2)(C3=CC=CC=C3)C4=CC=CC=C4.[Cl-],C(CO)O
+III,benzyl(triphenyl)phosphanium chloride,"propane-1,2,3-triol",0.1667,0.8333,328.15,1.5502,C1=CC=C(C=C1)C[P+](C2=CC=CC=C2)(C3=CC=CC=C3)C4=CC=CC=C4.[Cl-],C(C(CO)O)O
+III,tetrabutylazanium chloride,"ethane-1,2-diol",0.3333,0.6667,288.15,1.4686,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(CO)O
+III,tetrabutylazanium chloride,"ethane-1,2-diol",0.3333,0.6667,298.15,1.4661,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(CO)O
+III,tetrabutylazanium chloride,"ethane-1,2-diol",0.3333,0.6667,303.15,1.4648,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(CO)O
+III,tetrabutylazanium chloride,"ethane-1,2-diol",0.3333,0.6667,308.15,1.4635,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(CO)O
+III,tetrabutylazanium chloride,"ethane-1,2-diol",0.3333,0.6667,313.15,1.4622,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(CO)O
+III,tetrabutylazanium chloride,"ethane-1,2-diol",0.3333,0.6667,318.15,1.4608,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(CO)O
+III,tetrabutylazanium chloride,"ethane-1,2-diol",0.3333,0.6667,323.15,1.4594,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(CO)O
+III,tetrabutylazanium chloride,"ethane-1,2-diol",0.3333,0.6667,328.15,1.458,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(CO)O
+III,tetrabutylazanium chloride,"ethane-1,2-diol",0.3333,0.6667,338.15,1.4551,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(CO)O
+III,tetrabutylazanium chloride,2-phenylacetic acid,0.3333,0.6667,293.15,1.5099,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C1=CC=C(C=C1)CC(=O)O
+III,tetrabutylazanium chloride,2-phenylacetic acid,0.3333,0.6667,298.15,1.5083,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C1=CC=C(C=C1)CC(=O)O
+III,tetrabutylazanium chloride,2-phenylacetic acid,0.3333,0.6667,303.15,1.5067,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C1=CC=C(C=C1)CC(=O)O
+III,tetrabutylazanium chloride,2-phenylacetic acid,0.3333,0.6667,313.15,1.5035,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C1=CC=C(C=C1)CC(=O)O
+III,tetrabutylazanium chloride,2-phenylacetic acid,0.3333,0.6667,323.15,1.5004,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C1=CC=C(C=C1)CC(=O)O
+III,tetrabutylazanium chloride,2-phenylacetic acid,0.3333,0.6667,328.15,1.4988,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C1=CC=C(C=C1)CC(=O)O
+III,tetrabutylazanium chloride,2-phenylacetic acid,0.3333,0.6667,333.15,1.4973,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C1=CC=C(C=C1)CC(=O)O
+III,tetrabutylazanium chloride,2-phenylacetic acid,0.3333,0.6667,338.15,1.4958,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C1=CC=C(C=C1)CC(=O)O
+III,tetrabutylazanium chloride,propanoic acid,0.3333,0.6667,288.15,1.458,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],CCC(=O)O
+III,tetrabutylazanium chloride,propanoic acid,0.3333,0.6667,293.15,1.4567,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],CCC(=O)O
+III,tetrabutylazanium chloride,propanoic acid,0.3333,0.6667,298.15,1.4553,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],CCC(=O)O
+III,tetrabutylazanium chloride,propanoic acid,0.3333,0.6667,308.15,1.4523,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],CCC(=O)O
+III,tetrabutylazanium chloride,propanoic acid,0.3333,0.6667,313.15,1.4509,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],CCC(=O)O
+III,tetrabutylazanium chloride,propanoic acid,0.3333,0.6667,318.15,1.4494,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],CCC(=O)O
+III,tetrabutylazanium chloride,propanoic acid,0.3333,0.6667,323.15,1.4479,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],CCC(=O)O
+III,tetrabutylazanium chloride,propanoic acid,0.3333,0.6667,333.15,1.4449,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],CCC(=O)O
+III,tetrabutylazanium chloride,propanoic acid,0.3333,0.6667,338.15,1.4433,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],CCC(=O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,4-chlorophenol,0.3333,0.6667,293.15,1.5397,C[N+](C)(C)CCO.[Cl-],C1=CC(=CC=C1O)Cl
+III,2-hydroxyethyl(trimethyl)azanium chloride,4-chlorophenol,0.3333,0.6667,303.15,1.5374,C[N+](C)(C)CCO.[Cl-],C1=CC(=CC=C1O)Cl
+III,2-hydroxyethyl(trimethyl)azanium chloride,4-chlorophenol,0.3333,0.6667,308.15,1.5361,C[N+](C)(C)CCO.[Cl-],C1=CC(=CC=C1O)Cl
+III,2-hydroxyethyl(trimethyl)azanium chloride,4-chlorophenol,0.3333,0.6667,313.15,1.535,C[N+](C)(C)CCO.[Cl-],C1=CC(=CC=C1O)Cl
+III,2-hydroxyethyl(trimethyl)azanium chloride,4-chlorophenol,0.3333,0.6667,323.15,1.5326,C[N+](C)(C)CCO.[Cl-],C1=CC(=CC=C1O)Cl
+III,2-hydroxyethyl(trimethyl)azanium chloride,4-chlorophenol,0.3333,0.6667,328.15,1.5312,C[N+](C)(C)CCO.[Cl-],C1=CC(=CC=C1O)Cl
+III,2-hydroxyethyl(trimethyl)azanium chloride,4-chlorophenol,0.3333,0.6667,333.15,1.5298,C[N+](C)(C)CCO.[Cl-],C1=CC(=CC=C1O)Cl
+III,2-hydroxyethyl(trimethyl)azanium chloride,4-methylphenol,0.3333,0.6667,293.15,1.527,C[N+](C)(C)CCO.[Cl-],CC1=CC=C(C=C1)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,4-methylphenol,0.3333,0.6667,298.15,1.5255,C[N+](C)(C)CCO.[Cl-],CC1=CC=C(C=C1)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,4-methylphenol,0.3333,0.6667,308.15,1.5229,C[N+](C)(C)CCO.[Cl-],CC1=CC=C(C=C1)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,4-methylphenol,0.3333,0.6667,313.15,1.5218,C[N+](C)(C)CCO.[Cl-],CC1=CC=C(C=C1)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,4-methylphenol,0.3333,0.6667,318.15,1.5206,C[N+](C)(C)CCO.[Cl-],CC1=CC=C(C=C1)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,4-methylphenol,0.3333,0.6667,328.15,1.5183,C[N+](C)(C)CCO.[Cl-],CC1=CC=C(C=C1)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,4-methylphenol,0.3333,0.6667,333.15,1.517,C[N+](C)(C)CCO.[Cl-],CC1=CC=C(C=C1)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,phenol,0.3333,0.6667,293.15,1.5292,C[N+](C)(C)CCO.[Cl-],C1=CC=C(C=C1)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,phenol,0.3333,0.6667,298.15,1.5278,C[N+](C)(C)CCO.[Cl-],C1=CC=C(C=C1)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,phenol,0.3333,0.6667,308.15,1.5251,C[N+](C)(C)CCO.[Cl-],C1=CC=C(C=C1)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,phenol,0.3333,0.6667,313.15,1.5239,C[N+](C)(C)CCO.[Cl-],C1=CC=C(C=C1)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,phenol,0.3333,0.6667,318.15,1.5228,C[N+](C)(C)CCO.[Cl-],C1=CC=C(C=C1)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,phenol,0.3333,0.6667,328.15,1.52,C[N+](C)(C)CCO.[Cl-],C1=CC=C(C=C1)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,phenol,0.3333,0.6667,333.15,1.5187,C[N+](C)(C)CCO.[Cl-],C1=CC=C(C=C1)O
+III,benzyl(triethyl)azanium chloride,"2-hydroxypropane-1,2,3-tricarboxylic acid",0.5,0.5,333.15,1.5183,CC[N+](CC)(CC)CC1=CC=CC=C1.[Cl-],C(C(=O)O)C(CC(=O)O)(C(=O)O)O
+III,benzyl(triethyl)azanium chloride,"2-hydroxypropane-1,2,3-tricarboxylic acid",0.5,0.5,328.15,1.5198,CC[N+](CC)(CC)CC1=CC=CC=C1.[Cl-],C(C(=O)O)C(CC(=O)O)(C(=O)O)O
+III,benzyl(triethyl)azanium chloride,"2-hydroxypropane-1,2,3-tricarboxylic acid",0.5,0.5,323.15,1.5212,CC[N+](CC)(CC)CC1=CC=CC=C1.[Cl-],C(C(=O)O)C(CC(=O)O)(C(=O)O)O
+III,benzyl(triethyl)azanium chloride,"2-hydroxypropane-1,2,3-tricarboxylic acid",0.5,0.5,318.15,1.5233,CC[N+](CC)(CC)CC1=CC=CC=C1.[Cl-],C(C(=O)O)C(CC(=O)O)(C(=O)O)O
+III,benzyl(triethyl)azanium chloride,"2-hydroxypropane-1,2,3-tricarboxylic acid",0.5,0.5,308.15,1.5264,CC[N+](CC)(CC)CC1=CC=CC=C1.[Cl-],C(C(=O)O)C(CC(=O)O)(C(=O)O)O
+III,benzyl(triethyl)azanium chloride,"2-hydroxypropane-1,2,3-tricarboxylic acid",0.5,0.5,303.15,1.5279,CC[N+](CC)(CC)CC1=CC=CC=C1.[Cl-],C(C(=O)O)C(CC(=O)O)(C(=O)O)O
+III,benzyl(triethyl)azanium chloride,"2-hydroxypropane-1,2,3-tricarboxylic acid",0.5,0.5,298.15,1.5293,CC[N+](CC)(CC)CC1=CC=CC=C1.[Cl-],C(C(=O)O)C(CC(=O)O)(C(=O)O)O
+III,benzyl(triethyl)azanium chloride,"2-hydroxypropane-1,2,3-tricarboxylic acid",0.5,0.5,293.15,1.5307,CC[N+](CC)(CC)CC1=CC=CC=C1.[Cl-],C(C(=O)O)C(CC(=O)O)(C(=O)O)O
+III,benzyl(triethyl)azanium chloride,oxalic acid,0.5,0.5,333.15,1.5042,CC[N+](CC)(CC)CC1=CC=CC=C1.[Cl-],C(=O)(C(=O)O)O
+III,benzyl(triethyl)azanium chloride,oxalic acid,0.5,0.5,323.15,1.5074,CC[N+](CC)(CC)CC1=CC=CC=C1.[Cl-],C(=O)(C(=O)O)O
+III,benzyl(triethyl)azanium chloride,oxalic acid,0.5,0.5,313.15,1.5108,CC[N+](CC)(CC)CC1=CC=CC=C1.[Cl-],C(=O)(C(=O)O)O
+III,benzyl(triethyl)azanium chloride,oxalic acid,0.5,0.5,308.15,1.5123,CC[N+](CC)(CC)CC1=CC=CC=C1.[Cl-],C(=O)(C(=O)O)O
+III,benzyl(triethyl)azanium chloride,oxalic acid,0.5,0.5,303.15,1.514,CC[N+](CC)(CC)CC1=CC=CC=C1.[Cl-],C(=O)(C(=O)O)O
+III,benzyl(triethyl)azanium chloride,oxalic acid,0.5,0.5,298.15,1.5156,CC[N+](CC)(CC)CC1=CC=CC=C1.[Cl-],C(=O)(C(=O)O)O
+III,benzyl(triethyl)azanium chloride,oxalic acid,0.5,0.5,293.15,1.5172,CC[N+](CC)(CC)CC1=CC=CC=C1.[Cl-],C(=O)(C(=O)O)O
+III,benzyl(triethyl)azanium chloride,4-methylbenzenesulfonic acid,0.3,0.7,333.15,1.5352,CC[N+](CC)(CC)CC1=CC=CC=C1.[Cl-],CC1=CC=C(C=C1)S(=O)(=O)O
+III,benzyl(triethyl)azanium chloride,4-methylbenzenesulfonic acid,0.3,0.7,328.15,1.5369,CC[N+](CC)(CC)CC1=CC=CC=C1.[Cl-],CC1=CC=C(C=C1)S(=O)(=O)O
+III,benzyl(triethyl)azanium chloride,4-methylbenzenesulfonic acid,0.3,0.7,318.15,1.5404,CC[N+](CC)(CC)CC1=CC=CC=C1.[Cl-],CC1=CC=C(C=C1)S(=O)(=O)O
+III,benzyl(triethyl)azanium chloride,4-methylbenzenesulfonic acid,0.3,0.7,313.15,1.5423,CC[N+](CC)(CC)CC1=CC=CC=C1.[Cl-],CC1=CC=C(C=C1)S(=O)(=O)O
+III,benzyl(triethyl)azanium chloride,4-methylbenzenesulfonic acid,0.3,0.7,308.15,1.5441,CC[N+](CC)(CC)CC1=CC=CC=C1.[Cl-],CC1=CC=C(C=C1)S(=O)(=O)O
+III,benzyl(triethyl)azanium chloride,4-methylbenzenesulfonic acid,0.3,0.7,298.15,1.547,CC[N+](CC)(CC)CC1=CC=CC=C1.[Cl-],CC1=CC=C(C=C1)S(=O)(=O)O
+III,benzyl(triethyl)azanium chloride,4-methylbenzenesulfonic acid,0.3,0.7,293.15,1.5484,CC[N+](CC)(CC)CC1=CC=CC=C1.[Cl-],CC1=CC=C(C=C1)S(=O)(=O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"butane-1,4-diol",0.3333,0.6667,298.15,1.4718,C[N+](C)(C)CCO.[Cl-],C(CCO)CO
+III,2-hydroxyethyl(trimethyl)azanium chloride,"butane-1,4-diol",0.25,0.75,298.15,1.4656,C[N+](C)(C)CCO.[Cl-],C(CCO)CO
+III,2-hydroxyethyl(trimethyl)azanium chloride,"ethane-1,2-diol",0.3597,0.6403,298.15,1.4678,C[N+](C)(C)CCO.[Cl-],C(CO)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"ethane-1,2-diol",0.3333,0.6667,298.15,1.465,C[N+](C)(C)CCO.[Cl-],C(CO)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"ethane-1,2-diol",0.2857,0.7143,298.15,1.4611,C[N+](C)(C)CCO.[Cl-],C(CO)O
+III,2-(tert-butylamino)ethanol;hydrochloride,"ethane-1,2-diol",0.2857,0.7143,298.15,1.465,CC(C)(C)NCCO.Cl,C(CO)O
+III,2-(tert-butylamino)ethanol;hydrochloride,"ethane-1,2-diol",0.2,0.8,298.15,1.4574,CC(C)(C)NCCO.Cl,C(CO)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"propane-1,2,3-triol",0.5,0.5,298.15,1.491,C[N+](C)(C)CCO.[Cl-],C(C(CO)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"propane-1,2,3-triol",0.3333,0.6667,298.15,1.4852,C[N+](C)(C)CCO.[Cl-],C(C(CO)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"propane-1,2,3-triol",0.25,0.75,298.15,1.4818,C[N+](C)(C)CCO.[Cl-],C(C(CO)O)O
+III,2-(tert-butylamino)ethanol;hydrochloride,"propane-1,2,3-triol",0.25,0.75,298.15,1.4825,CC(C)(C)NCCO.Cl,C(C(CO)O)O
+III,2-(tert-butylamino)ethanol;hydrochloride,"propane-1,2,3-triol",0.2,0.8,298.15,1.4812,CC(C)(C)NCCO.Cl,C(C(CO)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"propane-1,2,3-triol",0.3333,0.6667,298.15,1.48689,C[N+](C)(C)CCO.[Cl-],C(C(CO)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"propane-1,2,3-triol",0.3333,0.6667,303.15,1.48572,C[N+](C)(C)CCO.[Cl-],C(C(CO)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"propane-1,2,3-triol",0.3333,0.6667,308.15,1.48456,C[N+](C)(C)CCO.[Cl-],C(C(CO)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"propane-1,2,3-triol",0.3333,0.6667,318.15,1.48221,C[N+](C)(C)CCO.[Cl-],C(C(CO)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"propane-1,2,3-triol",0.3333,0.6667,323.15,1.48105,C[N+](C)(C)CCO.[Cl-],C(C(CO)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"propane-1,2,3-triol",0.3333,0.6667,333.15,1.4787,C[N+](C)(C)CCO.[Cl-],C(C(CO)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"propane-1,2,3-triol",0.25,0.75,298.15,1.48181,C[N+](C)(C)CCO.[Cl-],C(C(CO)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"propane-1,2,3-triol",0.25,0.75,303.15,1.48066,C[N+](C)(C)CCO.[Cl-],C(C(CO)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"propane-1,2,3-triol",0.25,0.75,308.15,1.47949,C[N+](C)(C)CCO.[Cl-],C(C(CO)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"propane-1,2,3-triol",0.25,0.75,313.15,1.4783,C[N+](C)(C)CCO.[Cl-],C(C(CO)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"propane-1,2,3-triol",0.25,0.75,323.15,1.47594,C[N+](C)(C)CCO.[Cl-],C(C(CO)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"propane-1,2,3-triol",0.25,0.75,328.15,1.47474,C[N+](C)(C)CCO.[Cl-],C(C(CO)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"propane-1,2,3-triol",0.2,0.8,298.15,1.47977,C[N+](C)(C)CCO.[Cl-],C(C(CO)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"propane-1,2,3-triol",0.2,0.8,303.15,1.47861,C[N+](C)(C)CCO.[Cl-],C(C(CO)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"propane-1,2,3-triol",0.2,0.8,308.15,1.47743,C[N+](C)(C)CCO.[Cl-],C(C(CO)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"propane-1,2,3-triol",0.2,0.8,313.15,1.47622,C[N+](C)(C)CCO.[Cl-],C(C(CO)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"propane-1,2,3-triol",0.2,0.8,318.15,1.47503,C[N+](C)(C)CCO.[Cl-],C(C(CO)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"propane-1,2,3-triol",0.2,0.8,323.15,1.47384,C[N+](C)(C)CCO.[Cl-],C(C(CO)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"propane-1,2,3-triol",0.2,0.8,328.15,1.47262,C[N+](C)(C)CCO.[Cl-],C(C(CO)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"ethane-1,2-diol",0.3333,0.6667,298.15,1.46823,C[N+](C)(C)CCO.[Cl-],C(CO)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"ethane-1,2-diol",0.3333,0.6667,303.15,1.46699,C[N+](C)(C)CCO.[Cl-],C(CO)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"ethane-1,2-diol",0.3333,0.6667,313.15,1.46445,C[N+](C)(C)CCO.[Cl-],C(CO)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"ethane-1,2-diol",0.3333,0.6667,318.15,1.4632,C[N+](C)(C)CCO.[Cl-],C(CO)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"ethane-1,2-diol",0.3333,0.6667,323.15,1.46197,C[N+](C)(C)CCO.[Cl-],C(CO)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"ethane-1,2-diol",0.3333,0.6667,328.15,1.46078,C[N+](C)(C)CCO.[Cl-],C(CO)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"ethane-1,2-diol",0.3333,0.6667,333.15,1.45954,C[N+](C)(C)CCO.[Cl-],C(CO)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"propane-1,2,3-triol",0.3333,0.6667,298.15,1.48675,C[N+](C)(C)CCO.[Cl-],C(C(CO)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"propane-1,2,3-triol",0.3333,0.6667,308.15,1.48443,C[N+](C)(C)CCO.[Cl-],C(C(CO)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"propane-1,2,3-triol",0.3333,0.6667,313.15,1.48326,C[N+](C)(C)CCO.[Cl-],C(C(CO)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"propane-1,2,3-triol",0.3333,0.6667,323.15,1.48093,C[N+](C)(C)CCO.[Cl-],C(C(CO)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"propane-1,2,3-triol",0.3333,0.6667,328.15,1.47978,C[N+](C)(C)CCO.[Cl-],C(C(CO)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"propane-1,2,3-triol",0.3333,0.6667,333.15,1.47856,C[N+](C)(C)CCO.[Cl-],C(C(CO)O)O
+III,2-(tert-butylamino)ethanol;hydrochloride,"ethane-1,2-diol",0.3333,0.6667,298.15,1.46768,CC(C)(C)NCCO.Cl,C(CO)O
+III,2-(tert-butylamino)ethanol;hydrochloride,"ethane-1,2-diol",0.3333,0.6667,308.15,1.46498,CC(C)(C)NCCO.Cl,C(CO)O
+III,2-(tert-butylamino)ethanol;hydrochloride,"ethane-1,2-diol",0.3333,0.6667,313.15,1.4636,CC(C)(C)NCCO.Cl,C(CO)O
+III,2-(tert-butylamino)ethanol;hydrochloride,"ethane-1,2-diol",0.3333,0.6667,318.15,1.46192,CC(C)(C)NCCO.Cl,C(CO)O
+III,2-(tert-butylamino)ethanol;hydrochloride,"ethane-1,2-diol",0.3333,0.6667,323.15,1.46051,CC(C)(C)NCCO.Cl,C(CO)O
+III,2-(tert-butylamino)ethanol;hydrochloride,"ethane-1,2-diol",0.3333,0.6667,333.15,1.45771,CC(C)(C)NCCO.Cl,C(CO)O
+III,2-(tert-butylamino)ethanol;hydrochloride,"ethane-1,2-diol",0.3333,0.6667,338.15,1.45664,CC(C)(C)NCCO.Cl,C(CO)O
+III,2-(tert-butylamino)ethanol;hydrochloride,"ethane-1,2-diol",0.3333,0.6667,343.15,1.45531,CC(C)(C)NCCO.Cl,C(CO)O
+III,2-(tert-butylamino)ethanol;hydrochloride,"propane-1,2,3-triol",0.3333,0.6667,298.15,1.4856,CC(C)(C)NCCO.Cl,C(C(CO)O)O
+III,2-(tert-butylamino)ethanol;hydrochloride,"propane-1,2,3-triol",0.3333,0.6667,303.15,1.48435,CC(C)(C)NCCO.Cl,C(C(CO)O)O
+III,2-(tert-butylamino)ethanol;hydrochloride,"propane-1,2,3-triol",0.3333,0.6667,313.15,1.48181,CC(C)(C)NCCO.Cl,C(C(CO)O)O
+III,2-(tert-butylamino)ethanol;hydrochloride,"propane-1,2,3-triol",0.3333,0.6667,318.15,1.48052,CC(C)(C)NCCO.Cl,C(C(CO)O)O
+III,2-(tert-butylamino)ethanol;hydrochloride,"propane-1,2,3-triol",0.3333,0.6667,328.15,1.47795,CC(C)(C)NCCO.Cl,C(C(CO)O)O
+III,2-(tert-butylamino)ethanol;hydrochloride,"propane-1,2,3-triol",0.3333,0.6667,333.15,1.47663,CC(C)(C)NCCO.Cl,C(C(CO)O)O
+III,2-(tert-butylamino)ethanol;hydrochloride,"propane-1,2,3-triol",0.3333,0.6667,338.15,1.47534,CC(C)(C)NCCO.Cl,C(C(CO)O)O
+III,2-(tert-butylamino)ethanol;hydrochloride,"propane-1,2,3-triol",0.3333,0.6667,343.15,1.47401,CC(C)(C)NCCO.Cl,C(C(CO)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"(3S,4R,5R)-2-(hydroxymethyl)oxane-2,3,4,5-tetrol",0.5,0.5,298.15,1.523,C[N+](C)(C)CCO.[Cl-],C1[C@H]([C@H]([C@@H](C(O1)(CO)O)O)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"(3S,4R,5R)-2-(hydroxymethyl)oxane-2,3,4,5-tetrol",0.5,0.5,308.15,1.521,C[N+](C)(C)CCO.[Cl-],C1[C@H]([C@H]([C@@H](C(O1)(CO)O)O)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"(3S,4R,5R)-2-(hydroxymethyl)oxane-2,3,4,5-tetrol",0.5,0.5,318.15,1.52,C[N+](C)(C)CCO.[Cl-],C1[C@H]([C@H]([C@@H](C(O1)(CO)O)O)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"(3S,4R,5R)-2-(hydroxymethyl)oxane-2,3,4,5-tetrol",0.5,0.5,338.15,1.515,C[N+](C)(C)CCO.[Cl-],C1[C@H]([C@H]([C@@H](C(O1)(CO)O)O)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"(3S,4R,5R)-2-(hydroxymethyl)oxane-2,3,4,5-tetrol",0.5,0.5,348.15,1.513,C[N+](C)(C)CCO.[Cl-],C1[C@H]([C@H]([C@@H](C(O1)(CO)O)O)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"(3S,4R,5R)-2-(hydroxymethyl)oxane-2,3,4,5-tetrol",0.5,0.5,358.15,1.512,C[N+](C)(C)CCO.[Cl-],C1[C@H]([C@H]([C@@H](C(O1)(CO)O)O)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"(3S,4R,5R)-2-(hydroxymethyl)oxane-2,3,4,5-tetrol",0.6,0.4,308.15,1.519,C[N+](C)(C)CCO.[Cl-],C1[C@H]([C@H]([C@@H](C(O1)(CO)O)O)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"(3S,4R,5R)-2-(hydroxymethyl)oxane-2,3,4,5-tetrol",0.6,0.4,318.15,1.517,C[N+](C)(C)CCO.[Cl-],C1[C@H]([C@H]([C@@H](C(O1)(CO)O)O)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"(3S,4R,5R)-2-(hydroxymethyl)oxane-2,3,4,5-tetrol",0.6,0.4,328.15,1.515,C[N+](C)(C)CCO.[Cl-],C1[C@H]([C@H]([C@@H](C(O1)(CO)O)O)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"(3S,4R,5R)-2-(hydroxymethyl)oxane-2,3,4,5-tetrol",0.6,0.4,338.15,1.512,C[N+](C)(C)CCO.[Cl-],C1[C@H]([C@H]([C@@H](C(O1)(CO)O)O)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"(3S,4R,5R)-2-(hydroxymethyl)oxane-2,3,4,5-tetrol",0.6,0.4,358.15,1.509,C[N+](C)(C)CCO.[Cl-],C1[C@H]([C@H]([C@@H](C(O1)(CO)O)O)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"(3S,4R,5R)-2-(hydroxymethyl)oxane-2,3,4,5-tetrol",0.6667,0.3333,298.15,1.519,C[N+](C)(C)CCO.[Cl-],C1[C@H]([C@H]([C@@H](C(O1)(CO)O)O)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"(3S,4R,5R)-2-(hydroxymethyl)oxane-2,3,4,5-tetrol",0.6667,0.3333,308.15,1.518,C[N+](C)(C)CCO.[Cl-],C1[C@H]([C@H]([C@@H](C(O1)(CO)O)O)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"(3S,4R,5R)-2-(hydroxymethyl)oxane-2,3,4,5-tetrol",0.6667,0.3333,328.15,1.514,C[N+](C)(C)CCO.[Cl-],C1[C@H]([C@H]([C@@H](C(O1)(CO)O)O)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"(3S,4R,5R)-2-(hydroxymethyl)oxane-2,3,4,5-tetrol",0.6667,0.3333,338.15,1.511,C[N+](C)(C)CCO.[Cl-],C1[C@H]([C@H]([C@@H](C(O1)(CO)O)O)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"(3S,4R,5R)-2-(hydroxymethyl)oxane-2,3,4,5-tetrol",0.6667,0.3333,348.15,1.509,C[N+](C)(C)CCO.[Cl-],C1[C@H]([C@H]([C@@H](C(O1)(CO)O)O)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"(3S,4R,5R)-2-(hydroxymethyl)oxane-2,3,4,5-tetrol",0.6667,0.3333,358.15,1.507,C[N+](C)(C)CCO.[Cl-],C1[C@H]([C@H]([C@@H](C(O1)(CO)O)O)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"(3S,4R,5R)-2-(hydroxymethyl)oxane-2,3,4,5-tetrol",0.7143,0.2857,298.15,1.522,C[N+](C)(C)CCO.[Cl-],C1[C@H]([C@H]([C@@H](C(O1)(CO)O)O)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"(3S,4R,5R)-2-(hydroxymethyl)oxane-2,3,4,5-tetrol",0.7143,0.2857,308.15,1.52,C[N+](C)(C)CCO.[Cl-],C1[C@H]([C@H]([C@@H](C(O1)(CO)O)O)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"(3S,4R,5R)-2-(hydroxymethyl)oxane-2,3,4,5-tetrol",0.7143,0.2857,328.15,1.516,C[N+](C)(C)CCO.[Cl-],C1[C@H]([C@H]([C@@H](C(O1)(CO)O)O)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"(3S,4R,5R)-2-(hydroxymethyl)oxane-2,3,4,5-tetrol",0.7143,0.2857,348.15,1.512,C[N+](C)(C)CCO.[Cl-],C1[C@H]([C@H]([C@@H](C(O1)(CO)O)O)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"(3S,4R,5R)-2-(hydroxymethyl)oxane-2,3,4,5-tetrol",0.7143,0.2857,358.15,1.51,C[N+](C)(C)CCO.[Cl-],C1[C@H]([C@H]([C@@H](C(O1)(CO)O)O)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,2-chloroacetic acid,0.3333,0.6667,298.15,1.472,C[N+](C)(C)CCO.[Cl-],C(C(=O)O)Cl
+III,2-hydroxyethyl(trimethyl)azanium chloride,2-chloroacetic acid,0.3333,0.6667,313.15,1.4687,C[N+](C)(C)CCO.[Cl-],C(C(=O)O)Cl
+III,2-hydroxyethyl(trimethyl)azanium chloride,propanoic acid,0.3333,0.6667,293.15,1.4491,C[N+](C)(C)CCO.[Cl-],CCC(=O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,propanoic acid,0.3333,0.6667,308.15,1.4463,C[N+](C)(C)CCO.[Cl-],CCC(=O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,4-methylbenzenesulfonic acid,0.3333,0.6667,293.15,1.5178,C[N+](C)(C)CCO.[Cl-],CC1=CC=C(C=C1)S(=O)(=O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,4-methylbenzenesulfonic acid,0.3333,0.6667,313.15,1.5132,C[N+](C)(C)CCO.[Cl-],CC1=CC=C(C=C1)S(=O)(=O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,4-methylbenzenesulfonic acid,0.3333,0.6667,338.15,1.507,C[N+](C)(C)CCO.[Cl-],CC1=CC=C(C=C1)S(=O)(=O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"2,2,2-trichloroacetic acid",0.3333,0.6667,313.15,1.4868,C[N+](C)(C)CCO.[Cl-],C(=O)(C(Cl)(Cl)Cl)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"2,2,2-trichloroacetic acid",0.3333,0.6667,328.15,1.4827,C[N+](C)(C)CCO.[Cl-],C(=O)(C(Cl)(Cl)Cl)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,pentanedioic acid,0.5,0.5,303.15,1.48211,C[N+](C)(C)CCO.[Cl-],C(CC(=O)O)CC(=O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,pentanedioic acid,0.5,0.5,323.15,1.47733,C[N+](C)(C)CCO.[Cl-],C(CC(=O)O)CC(=O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,pentanedioic acid,0.5,0.5,353.15,1.47014,C[N+](C)(C)CCO.[Cl-],C(CC(=O)O)CC(=O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,2-hydroxyacetic acid,0.5,0.5,318.15,1.47834,C[N+](C)(C)CCO.[Cl-],C(C(=O)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,2-hydroxyacetic acid,0.5,0.5,333.15,1.47487,C[N+](C)(C)CCO.[Cl-],C(C(=O)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,4-oxopentanoic acid,0.3333,0.6667,308.15,1.46512,C[N+](C)(C)CCO.[Cl-],CC(=O)CCC(=O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,4-oxopentanoic acid,0.3333,0.6667,323.15,1.46096,C[N+](C)(C)CCO.[Cl-],CC(=O)CCC(=O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,4-oxopentanoic acid,0.3333,0.6667,348.15,1.45402,C[N+](C)(C)CCO.[Cl-],CC(=O)CCC(=O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,propanedioic acid,0.5,0.5,308.15,1.48491,C[N+](C)(C)CCO.[Cl-],C(C(=O)O)C(=O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,propanedioic acid,0.5,0.5,343.15,1.47708,C[N+](C)(C)CCO.[Cl-],C(C(=O)O)C(=O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,oxalic acid,0.5,0.5,303.15,1.4852,C[N+](C)(C)CCO.[Cl-],C(=O)(C(=O)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,oxalic acid,0.5,0.5,328.15,1.47854,C[N+](C)(C)CCO.[Cl-],C(=O)(C(=O)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"propane-1,2,3-triol",0.3333,0.6667,288.15,1.48698,C[N+](C)(C)CCO.[Cl-],C(C(CO)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"propane-1,2,3-triol",0.3333,0.6667,293.15,1.48574,C[N+](C)(C)CCO.[Cl-],C(C(CO)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"propane-1,2,3-triol",0.3333,0.6667,310.65,1.48159,C[N+](C)(C)CCO.[Cl-],C(C(CO)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"propane-1,2,3-triol",0.3333,0.6667,320.65,1.47921,C[N+](C)(C)CCO.[Cl-],C(C(CO)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"propane-1,2,3-triol",0.3333,0.6667,335.65,1.47564,C[N+](C)(C)CCO.[Cl-],C(C(CO)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"ethane-1,2-diol",0.3333,0.6667,285.65,1.47174,C[N+](C)(C)CCO.[Cl-],C(CO)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"ethane-1,2-diol",0.3333,0.6667,305.65,1.46701,C[N+](C)(C)CCO.[Cl-],C(CO)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"ethane-1,2-diol",0.3333,0.6667,313.15,1.46505,C[N+](C)(C)CCO.[Cl-],C(CO)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"ethane-1,2-diol",0.3333,0.6667,325.65,1.46192,C[N+](C)(C)CCO.[Cl-],C(CO)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,urea,0.3333,0.6667,290.65,1.509617,C[N+](C)(C)CCO.[Cl-],C(=O)(N)N
+III,2-hydroxyethyl(trimethyl)azanium chloride,urea,0.3333,0.6667,298.15,1.508076,C[N+](C)(C)CCO.[Cl-],C(=O)(N)N
+III,2-hydroxyethyl(trimethyl)azanium chloride,urea,0.3333,0.6667,313.15,1.504855,C[N+](C)(C)CCO.[Cl-],C(=O)(N)N
+III,2-hydroxyethyl(trimethyl)azanium chloride,urea,0.3333,0.6667,320.65,1.50313,C[N+](C)(C)CCO.[Cl-],C(=O)(N)N
+III,2-hydroxyethyl(trimethyl)azanium chloride,urea,0.3333,0.6667,333.15,1.500288,C[N+](C)(C)CCO.[Cl-],C(=O)(N)N
+III,2-hydroxyethyl(trimethyl)azanium chloride,"propane-1,2-diol",0.25,0.75,318.15,1.4519,C[N+](C)(C)CCO.[Cl-],CC(CO)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"2-hydroxy-2,2-diphenylacetic acid",0.5,0.5,303.15,1.56671,C[N+](C)(C)CCO.[Cl-],C1=CC=C(C=C1)C(C2=CC=CC=C2)(C(=O)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,4-oxopentanoic acid,0.3333,0.6667,298.15,1.46185,C[N+](C)(C)CCO.[Cl-],CC(=O)CCC(=O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,4-oxopentanoic acid,0.3333,0.6667,313.15,1.45724,C[N+](C)(C)CCO.[Cl-],CC(=O)CCC(=O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,4-oxopentanoic acid,0.3333,0.6667,338.15,1.44995,C[N+](C)(C)CCO.[Cl-],CC(=O)CCC(=O)O
+III,tetrabutylazanium chloride,4-oxopentanoic acid,0.3333,0.6667,303.15,1.45444,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],CC(=O)CCC(=O)O
+III,tetrabutylazanium chloride,4-oxopentanoic acid,0.3333,0.6667,333.15,1.4446,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],CC(=O)CCC(=O)O
+III,tetraethylazanium chloride,4-oxopentanoic acid,0.3333,0.6667,298.15,1.4626,CC[N+](CC)(CC)CC.[Cl-],CC(=O)CCC(=O)O
+III,tetraethylazanium chloride,4-oxopentanoic acid,0.3333,0.6667,338.15,1.45028,CC[N+](CC)(CC)CC.[Cl-],CC(=O)CCC(=O)O
+III,tetrabutylazanium chloride,"ethane-1,2-diol",0.3333,0.6667,303.15,1.4672,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(CO)O
+III,tetrabutylazanium chloride,"ethane-1,2-diol",0.3333,0.6667,343.15,1.4545,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(CO)O
+III,tetrabutylazanium chloride,"ethane-1,2-diol",0.25,0.75,323.15,1.4556,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(CO)O
+III,tetrabutylazanium chloride,"ethane-1,2-diol",0.2,0.8,323.15,1.4523,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(CO)O
+III,tetrabutylazanium chloride,"propane-1,2,3-triol",0.25,0.75,313.15,1.4745,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(C(CO)O)O
+III,tetrabutylazanium chloride,"propane-1,2,3-triol",0.25,0.75,343.15,1.4652,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(C(CO)O)O
+III,tetrabutylazanium chloride,"propane-1,2,3-triol",0.2,0.8,343.15,1.4626,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(C(CO)O)O
+III,tetrabutylazanium chloride,"propane-1,2,3-triol",0.1667,0.8333,303.15,1.4754,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(C(CO)O)O
+III,tetrabutylazanium chloride,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.5,0.5,303.15,1.4772,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(COCCOCCO)O
+III,tetrabutylazanium chloride,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.5,0.5,333.15,1.4678,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(COCCOCCO)O
+III,tetrabutylazanium chloride,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.6667,0.3333,323.15,1.476,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(COCCOCCO)O
+III,tetrabutylazanium chloride,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.75,0.25,303.15,1.4836,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(COCCOCCO)O
+III,tetrabutylazanium chloride,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.75,0.25,343.15,1.4717,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(COCCOCCO)O
+III,tetrabutylazanium chloride,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.8,0.2,343.15,1.4722,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(COCCOCCO)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"2,2-dihydroxyindene-1,3-dione",0.5714,0.4286,298.15,1.562256,C[N+](C)(C)CCO.[Cl-],C1=CC=C2C(=C1)C(=O)C(C2=O)(O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"2,2-dihydroxyindene-1,3-dione",0.5714,0.4286,323.15,1.554651,C[N+](C)(C)CCO.[Cl-],C1=CC=C2C(=C1)C(=O)C(C2=O)(O)O
+III,tetrabutylazanium chloride,3-aminopropan-1-ol,0.2,0.8,308.15,1.469,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(CN)CO
+III,tetrabutylazanium chloride,3-aminopropan-1-ol,0.2,0.8,328.15,1.4619,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(CN)CO
+III,tetrabutylazanium chloride,3-aminopropan-1-ol,0.1429,0.8571,318.15,1.4625,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(CN)CO
+III,tetrabutylazanium chloride,3-aminopropan-1-ol,0.1429,0.8571,328.15,1.4592,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(CN)CO
+III,tetrabutylazanium chloride,3-aminopropan-1-ol,0.1111,0.8889,318.15,1.4607,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(CN)CO
+III,tetraethylazanium chloride,3-aminopropan-1-ol,0.2,0.8,298.15,1.477,CC[N+](CC)(CC)CC.[Cl-],C(CN)CO
+III,tetraethylazanium chloride,3-aminopropan-1-ol,0.2,0.8,313.15,1.4713,CC[N+](CC)(CC)CC.[Cl-],C(CN)CO
+III,tetraethylazanium chloride,3-aminopropan-1-ol,0.1429,0.8571,308.15,1.4688,CC[N+](CC)(CC)CC.[Cl-],C(CN)CO
+III,tetraethylazanium chloride,3-aminopropan-1-ol,0.1429,0.8571,323.15,1.4638,CC[N+](CC)(CC)CC.[Cl-],C(CN)CO
+III,tetraethylazanium chloride,3-aminopropan-1-ol,0.1111,0.8889,313.15,1.4644,CC[N+](CC)(CC)CC.[Cl-],C(CN)CO
+III,tetraethylazanium chloride,3-aminopropan-1-ol,0.1111,0.8889,323.15,1.4608,CC[N+](CC)(CC)CC.[Cl-],C(CN)CO
+III,benzyl(tributyl)azanium chloride,2-(2-hydroxyethoxy)ethanol,0.25,0.75,308.15,1.4878,CCCC[N+](CCCC)(CCCC)CC1=CC=CC=C1.[Cl-],C(COCCO)O
+III,benzyl(tributyl)azanium chloride,2-(2-hydroxyethoxy)ethanol,0.25,0.75,323.15,1.4836,CCCC[N+](CCCC)(CCCC)CC1=CC=CC=C1.[Cl-],C(COCCO)O
+III,benzyl(trimethyl)azanium chloride,2-(2-hydroxyethoxy)ethanol,0.25,0.75,293.15,1.4925,C[N+](C)(C)CC1=CC=CC=C1.[Cl-],C(COCCO)O
+III,benzyl(trimethyl)azanium chloride,2-(2-hydroxyethoxy)ethanol,0.25,0.75,303.15,1.4897,C[N+](C)(C)CC1=CC=CC=C1.[Cl-],C(COCCO)O
+III,benzyl(trimethyl)azanium chloride,2-(2-hydroxyethoxy)ethanol,0.25,0.75,338.15,1.4798,C[N+](C)(C)CC1=CC=CC=C1.[Cl-],C(COCCO)O
+III,benzyl(tributyl)azanium chloride,"ethane-1,2-diol",0.25,0.75,293.15,1.4963,CCCC[N+](CCCC)(CCCC)CC1=CC=CC=C1.[Cl-],C(CO)O
+III,benzyl(tributyl)azanium chloride,"ethane-1,2-diol",0.25,0.75,328.15,1.4855,CCCC[N+](CCCC)(CCCC)CC1=CC=CC=C1.[Cl-],C(CO)O
+III,benzyl(trimethyl)azanium chloride,"ethane-1,2-diol",0.25,0.75,298.15,1.4951,C[N+](C)(C)CC1=CC=CC=C1.[Cl-],C(CO)O
+III,benzyl(trimethyl)azanium chloride,"ethane-1,2-diol",0.25,0.75,338.15,1.4835,C[N+](C)(C)CC1=CC=CC=C1.[Cl-],C(CO)O
+III,benzyl(tributyl)azanium chloride,"propane-1,2,3-triol",0.25,0.75,288.15,1.5079,CCCC[N+](CCCC)(CCCC)CC1=CC=CC=C1.[Cl-],C(C(CO)O)O
+III,benzyl(tributyl)azanium chloride,"propane-1,2,3-triol",0.25,0.75,318.15,1.4992,CCCC[N+](CCCC)(CCCC)CC1=CC=CC=C1.[Cl-],C(C(CO)O)O
+III,benzyl(trimethyl)azanium chloride,"propane-1,2,3-triol",0.25,0.75,283.15,1.5126,C[N+](C)(C)CC1=CC=CC=C1.[Cl-],C(C(CO)O)O
+III,benzyl(trimethyl)azanium chloride,"propane-1,2,3-triol",0.25,0.75,298.15,1.5089,C[N+](C)(C)CC1=CC=CC=C1.[Cl-],C(C(CO)O)O
+III,benzyl(trimethyl)azanium chloride,"propane-1,2,3-triol",0.25,0.75,333.15,1.5002,C[N+](C)(C)CC1=CC=CC=C1.[Cl-],C(C(CO)O)O
+III,benzyl(tributyl)azanium chloride,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.25,0.75,288.15,1.4921,CCCC[N+](CCCC)(CCCC)CC1=CC=CC=C1.[Cl-],C(COCCOCCO)O
+III,benzyl(tributyl)azanium chloride,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.25,0.75,318.15,1.4827,CCCC[N+](CCCC)(CCCC)CC1=CC=CC=C1.[Cl-],C(COCCOCCO)O
+III,benzyl(tributyl)azanium chloride,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.25,0.75,328.15,1.4795,CCCC[N+](CCCC)(CCCC)CC1=CC=CC=C1.[Cl-],C(COCCOCCO)O
+III,benzyl(trimethyl)azanium chloride,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.25,0.75,303.15,1.4865,C[N+](C)(C)CC1=CC=CC=C1.[Cl-],C(COCCOCCO)O
+III,benzyl(trimethyl)azanium chloride,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.25,0.75,323.15,1.4807,C[N+](C)(C)CC1=CC=CC=C1.[Cl-],C(COCCOCCO)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,4-oxopentanoic acid,0.3333,0.6667,298.15,1.46867,C[N+](C)(C)CCO.[Cl-],CC(=O)CCC(=O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,4-oxopentanoic acid,0.3333,0.6667,318.15,1.4632,C[N+](C)(C)CCO.[Cl-],CC(=O)CCC(=O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,4-oxopentanoic acid,0.3333,0.6667,333.15,1.45902,C[N+](C)(C)CCO.[Cl-],CC(=O)CCC(=O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,urea,0.3333,0.6667,308.15,1.5031,C[N+](C)(C)CCO.[Cl-],C(=O)(N)N
+III,2-hydroxyethyl(trimethyl)azanium chloride,"propane-1,2-diol",0.25,0.75,293.15,1.46137,C[N+](C)(C)CCO.[Cl-],CC(CO)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"propane-1,2-diol",0.25,0.75,318.15,1.45418,C[N+](C)(C)CCO.[Cl-],CC(CO)O
+III,tetrabutylazanium chloride,(2S)-2-amino-5-(diaminomethylideneamino)pentanoic acid,0.8571,0.1429,333.15,1.4834,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(C[C@@H](C(=O)O)N)CN=C(N)N
+III,tetrabutylazanium chloride,(2S)-2-amino-5-(diaminomethylideneamino)pentanoic acid,0.875,0.125,313.15,1.4888,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(C[C@@H](C(=O)O)N)CN=C(N)N
+III,tetrabutylazanium chloride,(2S)-2-amino-5-(diaminomethylideneamino)pentanoic acid,0.8889,0.1111,323.15,1.4854,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(C[C@@H](C(=O)O)N)CN=C(N)N
+III,tetrabutylazanium chloride,(2S)-2-amino-5-(diaminomethylideneamino)pentanoic acid,0.8889,0.1111,343.15,1.4796,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(C[C@@H](C(=O)O)N)CN=C(N)N
+III,tetrabutylazanium chloride,(2S)-2-aminobutanedioic acid,0.9,0.1,353.15,1.4653,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C([C@@H](C(=O)O)N)C(=O)O
+III,tetrabutylazanium chloride,(2S)-2-aminobutanedioic acid,0.9091,0.0909,343.15,1.469,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C([C@@H](C(=O)O)N)C(=O)O
+III,tetrabutylazanium chloride,(2S)-2-aminobutanedioic acid,0.9167,0.0833,313.15,1.4771,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C([C@@H](C(=O)O)N)C(=O)O
+III,tetrabutylazanium chloride,(2S)-2-aminopentanedioic acid,0.8889,0.1111,303.15,1.4804,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(CC(=O)O)[C@@H](C(=O)O)N
+III,tetrabutylazanium chloride,(2S)-2-aminopentanedioic acid,0.9,0.1,323.15,1.4742,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(CC(=O)O)[C@@H](C(=O)O)N
+III,tetrabutylazanium chloride,(2S)-2-aminopentanedioic acid,0.9091,0.0909,303.15,1.4813,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(CC(=O)O)[C@@H](C(=O)O)N
+III,2-hydroxyethyl(trimethyl)azanium chloride,2-aminoethanol,0.1667,0.8333,298.15,1.48388,C[N+](C)(C)CCO.[Cl-],C(CO)N
+III,2-hydroxyethyl(trimethyl)azanium chloride,2-aminoethanol,0.1667,0.8333,338.15,1.46842,C[N+](C)(C)CCO.[Cl-],C(CO)N
+III,2-hydroxyethyl(trimethyl)azanium chloride,2-aminoethanol,0.1429,0.8571,318.15,1.47445,C[N+](C)(C)CCO.[Cl-],C(CO)N
+III,2-hydroxyethyl(trimethyl)azanium chloride,2-aminoethanol,0.1429,0.8571,348.15,1.46444,C[N+](C)(C)CCO.[Cl-],C(CO)N
+III,2-hydroxyethyl(trimethyl)azanium chloride,2-aminoethanol,0.125,0.875,348.15,1.46171,C[N+](C)(C)CCO.[Cl-],C(CO)N
+III,2-hydroxyethyl(trimethyl)azanium chloride,2-aminoethanol,0.1111,0.8889,308.15,1.47404,C[N+](C)(C)CCO.[Cl-],C(CO)N
+III,benzyl(tripropyl)azanium chloride,"ethane-1,2-diol",0.25,0.75,298.15,1.4965,CCC[N+](CCC)(CCC)CC1=CC=CC=C1.[Cl-],C(CO)O
+III,benzyl(tripropyl)azanium chloride,"ethane-1,2-diol",0.25,0.75,318.15,1.4911,CCC[N+](CCC)(CCC)CC1=CC=CC=C1.[Cl-],C(CO)O
+III,benzyl(tripropyl)azanium chloride,"propane-1,2,3-triol",0.25,0.75,293.15,1.5051,CCC[N+](CCC)(CCC)CC1=CC=CC=C1.[Cl-],C(C(CO)O)O
+III,benzyl(tripropyl)azanium chloride,"propane-1,2,3-triol",0.25,0.75,308.15,1.5011,CCC[N+](CCC)(CCC)CC1=CC=CC=C1.[Cl-],C(C(CO)O)O
+III,benzyl(tripropyl)azanium chloride,"propane-1,2,3-triol",0.25,0.75,343.15,1.4908,CCC[N+](CCC)(CCC)CC1=CC=CC=C1.[Cl-],C(C(CO)O)O
+III,benzyl(tripropyl)azanium chloride,2-hydroxypropanoic acid,0.25,0.75,303.15,1.4908,CCC[N+](CCC)(CCC)CC1=CC=CC=C1.[Cl-],CC(C(=O)O)O
+III,benzyl(tripropyl)azanium chloride,2-hydroxypropanoic acid,0.25,0.75,343.15,1.4778,CCC[N+](CCC)(CCC)CC1=CC=CC=C1.[Cl-],CC(C(=O)O)O
+III,benzyl(tripropyl)azanium chloride,phenol,0.25,0.75,313.15,1.542,CCC[N+](CCC)(CCC)CC1=CC=CC=C1.[Cl-],C1=CC=C(C=C1)O
+III,benzyl(tripropyl)azanium chloride,phenol,0.25,0.75,323.15,1.5386,CCC[N+](CCC)(CCC)CC1=CC=CC=C1.[Cl-],C1=CC=C(C=C1)O
+III,benzyl(triphenyl)phosphanium chloride,"propane-1,2,3-triol",0.1667,0.8333,338.15,1.5168,C1=CC=C(C=C1)C[P+](C2=CC=CC=C2)(C3=CC=CC=C3)C4=CC=CC=C4.[Cl-],C(C(CO)O)O
+III,tetrabutylazanium chloride,"ethane-1,2-diol",0.3333,0.6667,293.15,1.4674,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(CO)O
+III,tetrabutylazanium chloride,"ethane-1,2-diol",0.3333,0.6667,333.15,1.4566,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C(CO)O
+III,tetrabutylazanium chloride,2-phenylacetic acid,0.3333,0.6667,308.15,1.5051,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C1=CC=C(C=C1)CC(=O)O
+III,tetrabutylazanium chloride,2-phenylacetic acid,0.3333,0.6667,318.15,1.502,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],C1=CC=C(C=C1)CC(=O)O
+III,tetrabutylazanium chloride,propanoic acid,0.3333,0.6667,303.15,1.4538,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],CCC(=O)O
+III,tetrabutylazanium chloride,propanoic acid,0.3333,0.6667,328.15,1.4464,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],CCC(=O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,4-chlorophenol,0.3333,0.6667,298.15,1.5385,C[N+](C)(C)CCO.[Cl-],C1=CC(=CC=C1O)Cl
+III,2-hydroxyethyl(trimethyl)azanium chloride,4-chlorophenol,0.3333,0.6667,318.15,1.5339,C[N+](C)(C)CCO.[Cl-],C1=CC(=CC=C1O)Cl
+III,2-hydroxyethyl(trimethyl)azanium chloride,4-methylphenol,0.3333,0.6667,303.15,1.5242,C[N+](C)(C)CCO.[Cl-],CC1=CC=C(C=C1)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,4-methylphenol,0.3333,0.6667,323.15,1.5193,C[N+](C)(C)CCO.[Cl-],CC1=CC=C(C=C1)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,phenol,0.3333,0.6667,303.15,1.5266,C[N+](C)(C)CCO.[Cl-],C1=CC=C(C=C1)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,phenol,0.3333,0.6667,323.15,1.5216,C[N+](C)(C)CCO.[Cl-],C1=CC=C(C=C1)O
+III,benzyl(triethyl)azanium chloride,"2-hydroxypropane-1,2,3-tricarboxylic acid",0.5,0.5,313.15,1.5247,CC[N+](CC)(CC)CC1=CC=CC=C1.[Cl-],C(C(=O)O)C(CC(=O)O)(C(=O)O)O
+III,benzyl(triethyl)azanium chloride,oxalic acid,0.5,0.5,328.15,1.5058,CC[N+](CC)(CC)CC1=CC=CC=C1.[Cl-],C(=O)(C(=O)O)O
+III,benzyl(triethyl)azanium chloride,oxalic acid,0.5,0.5,318.15,1.5089,CC[N+](CC)(CC)CC1=CC=CC=C1.[Cl-],C(=O)(C(=O)O)O
+III,benzyl(triethyl)azanium chloride,4-methylbenzenesulfonic acid,0.3,0.7,323.15,1.5386,CC[N+](CC)(CC)CC1=CC=CC=C1.[Cl-],CC1=CC=C(C=C1)S(=O)(=O)O
+III,benzyl(triethyl)azanium chloride,4-methylbenzenesulfonic acid,0.3,0.7,303.15,1.5456,CC[N+](CC)(CC)CC1=CC=CC=C1.[Cl-],CC1=CC=C(C=C1)S(=O)(=O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"butane-1,4-diol",0.2857,0.7143,298.15,1.468,C[N+](C)(C)CCO.[Cl-],C(CCO)CO
+III,2-(tert-butylamino)ethanol;hydrochloride,"ethane-1,2-diol",0.25,0.75,298.15,1.462,CC(C)(C)NCCO.Cl,C(CO)O
+III,2-(tert-butylamino)ethanol;hydrochloride,"propane-1,2,3-triol",0.3333,0.6667,298.15,1.4853,CC(C)(C)NCCO.Cl,C(C(CO)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"propane-1,2,3-triol",0.3333,0.6667,313.15,1.48337,C[N+](C)(C)CCO.[Cl-],C(C(CO)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"propane-1,2,3-triol",0.3333,0.6667,328.15,1.47987,C[N+](C)(C)CCO.[Cl-],C(C(CO)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"propane-1,2,3-triol",0.25,0.75,318.15,1.47712,C[N+](C)(C)CCO.[Cl-],C(C(CO)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"propane-1,2,3-triol",0.25,0.75,333.15,1.47354,C[N+](C)(C)CCO.[Cl-],C(C(CO)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"propane-1,2,3-triol",0.2,0.8,333.15,1.47142,C[N+](C)(C)CCO.[Cl-],C(C(CO)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"ethane-1,2-diol",0.3333,0.6667,308.15,1.46575,C[N+](C)(C)CCO.[Cl-],C(CO)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"propane-1,2,3-triol",0.3333,0.6667,303.15,1.48558,C[N+](C)(C)CCO.[Cl-],C(C(CO)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"propane-1,2,3-triol",0.3333,0.6667,318.15,1.48211,C[N+](C)(C)CCO.[Cl-],C(C(CO)O)O
+III,2-(tert-butylamino)ethanol;hydrochloride,"ethane-1,2-diol",0.3333,0.6667,303.15,1.46634,CC(C)(C)NCCO.Cl,C(CO)O
+III,2-(tert-butylamino)ethanol;hydrochloride,"ethane-1,2-diol",0.3333,0.6667,328.15,1.45941,CC(C)(C)NCCO.Cl,C(CO)O
+III,2-(tert-butylamino)ethanol;hydrochloride,"propane-1,2,3-triol",0.3333,0.6667,308.15,1.48307,CC(C)(C)NCCO.Cl,C(C(CO)O)O
+III,2-(tert-butylamino)ethanol;hydrochloride,"propane-1,2,3-triol",0.3333,0.6667,323.15,1.47923,CC(C)(C)NCCO.Cl,C(C(CO)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"(3S,4R,5R)-2-(hydroxymethyl)oxane-2,3,4,5-tetrol",0.5,0.5,328.15,1.518,C[N+](C)(C)CCO.[Cl-],C1[C@H]([C@H]([C@@H](C(O1)(CO)O)O)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"(3S,4R,5R)-2-(hydroxymethyl)oxane-2,3,4,5-tetrol",0.6,0.4,298.15,1.521,C[N+](C)(C)CCO.[Cl-],C1[C@H]([C@H]([C@@H](C(O1)(CO)O)O)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"(3S,4R,5R)-2-(hydroxymethyl)oxane-2,3,4,5-tetrol",0.6,0.4,348.15,1.511,C[N+](C)(C)CCO.[Cl-],C1[C@H]([C@H]([C@@H](C(O1)(CO)O)O)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"(3S,4R,5R)-2-(hydroxymethyl)oxane-2,3,4,5-tetrol",0.6667,0.3333,318.15,1.515,C[N+](C)(C)CCO.[Cl-],C1[C@H]([C@H]([C@@H](C(O1)(CO)O)O)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"(3S,4R,5R)-2-(hydroxymethyl)oxane-2,3,4,5-tetrol",0.7143,0.2857,318.15,1.517,C[N+](C)(C)CCO.[Cl-],C1[C@H]([C@H]([C@@H](C(O1)(CO)O)O)O)O
+III,2-hydroxyethyl(trimethyl)azanium chloride,"(3S,4R,5R)-2-(hydroxymethyl)oxane-2,3,4,5-tetrol",0.7143,0.2857,338.15,1.514,C[N+](C)(C)CCO.[Cl-],C1[C@H]([C@H]([C@@H](C(O1)(CO)O)O)O)O
+III,tetraethylazanium bromide,"2-hydroxy-2,2-diphenylacetic acid",0.5,0.5,293.15,1.575234,CC[N+](CC)(CC)CC.[Br-],C1=CC=C(C=C1)C(C2=CC=CC=C2)(C(=O)O)O
+III,tetraethylazanium bromide,"2-hydroxy-2,2-diphenylacetic acid",0.5,0.5,298.15,1.573882,CC[N+](CC)(CC)CC.[Br-],C1=CC=C(C=C1)C(C2=CC=CC=C2)(C(=O)O)O
+III,tetraethylazanium bromide,"2-hydroxy-2,2-diphenylacetic acid",0.5,0.5,303.15,1.572323,CC[N+](CC)(CC)CC.[Br-],C1=CC=C(C=C1)C(C2=CC=CC=C2)(C(=O)O)O
+III,tetraethylazanium bromide,"2-hydroxy-2,2-diphenylacetic acid",0.5,0.5,313.15,1.569104,CC[N+](CC)(CC)CC.[Br-],C1=CC=C(C=C1)C(C2=CC=CC=C2)(C(=O)O)O
+III,tetraethylazanium bromide,"2-hydroxy-2,2-diphenylacetic acid",0.5,0.5,318.15,1.567505,CC[N+](CC)(CC)CC.[Br-],C1=CC=C(C=C1)C(C2=CC=CC=C2)(C(=O)O)O
+III,tetraethylazanium bromide,"2-hydroxy-2,2-diphenylacetic acid",0.5,0.5,323.15,1.565915,CC[N+](CC)(CC)CC.[Br-],C1=CC=C(C=C1)C(C2=CC=CC=C2)(C(=O)O)O
+III,tetraethylazanium bromide,"2-hydroxy-2,2-diphenylacetic acid",0.5,0.5,333.15,1.562771,CC[N+](CC)(CC)CC.[Br-],C1=CC=C(C=C1)C(C2=CC=CC=C2)(C(=O)O)O
+III,tetrapropylazanium bromide,"2-hydroxy-2,2-diphenylacetic acid",0.5,0.5,293.15,1.552125,CCC[N+](CCC)(CCC)CCC.[Br-],C1=CC=C(C=C1)C(C2=CC=CC=C2)(C(=O)O)O
+III,tetrapropylazanium bromide,"2-hydroxy-2,2-diphenylacetic acid",0.5,0.5,303.15,1.549269,CCC[N+](CCC)(CCC)CCC.[Br-],C1=CC=C(C=C1)C(C2=CC=CC=C2)(C(=O)O)O
+III,tetrapropylazanium bromide,"2-hydroxy-2,2-diphenylacetic acid",0.5,0.5,308.15,1.54771,CCC[N+](CCC)(CCC)CCC.[Br-],C1=CC=C(C=C1)C(C2=CC=CC=C2)(C(=O)O)O
+III,tetrapropylazanium bromide,"2-hydroxy-2,2-diphenylacetic acid",0.5,0.5,313.15,1.54613,CCC[N+](CCC)(CCC)CCC.[Br-],C1=CC=C(C=C1)C(C2=CC=CC=C2)(C(=O)O)O
+III,tetrapropylazanium bromide,"2-hydroxy-2,2-diphenylacetic acid",0.5,0.5,318.15,1.544588,CCC[N+](CCC)(CCC)CCC.[Br-],C1=CC=C(C=C1)C(C2=CC=CC=C2)(C(=O)O)O
+III,tetrapropylazanium bromide,"2-hydroxy-2,2-diphenylacetic acid",0.5,0.5,323.15,1.543058,CCC[N+](CCC)(CCC)CCC.[Br-],C1=CC=C(C=C1)C(C2=CC=CC=C2)(C(=O)O)O
+III,tetrapropylazanium bromide,"2-hydroxy-2,2-diphenylacetic acid",0.5,0.5,333.15,1.540019,CCC[N+](CCC)(CCC)CCC.[Br-],C1=CC=C(C=C1)C(C2=CC=CC=C2)(C(=O)O)O
+III,butan-1-amine;hydrobromide,"propane-1,2,3-triol",0.3333,0.6667,298.15,1.492,CCCCN.Br,C(C(CO)O)O
+III,ethanamine;hydrobromide,"propane-1,2,3-triol",0.3333,0.6667,298.15,1.497,CCN.Br,C(C(CO)O)O
+III,propan-1-amine;hydrobromide,"propane-1,2,3-triol",0.3333,0.6667,298.15,1.495,CCCN.Br,C(C(CO)O)O
+III,tetrabutylazanium bromide,4-oxopentanoic acid,0.3333,0.6667,293.15,1.47125,CCCC[N+](CCCC)(CCCC)CCCC.[Br-],CC(=O)CCC(=O)O
+III,tetrabutylazanium bromide,4-oxopentanoic acid,0.3333,0.6667,303.15,1.46802,CCCC[N+](CCCC)(CCCC)CCCC.[Br-],CC(=O)CCC(=O)O
+III,tetrabutylazanium bromide,4-oxopentanoic acid,0.3333,0.6667,308.15,1.46629,CCCC[N+](CCCC)(CCCC)CCCC.[Br-],CC(=O)CCC(=O)O
+III,tetrabutylazanium bromide,4-oxopentanoic acid,0.3333,0.6667,313.15,1.46471,CCCC[N+](CCCC)(CCCC)CCCC.[Br-],CC(=O)CCC(=O)O
+III,tetrabutylazanium bromide,4-oxopentanoic acid,0.3333,0.6667,323.15,1.46135,CCCC[N+](CCCC)(CCCC)CCCC.[Br-],CC(=O)CCC(=O)O
+III,tetrabutylazanium bromide,4-oxopentanoic acid,0.3333,0.6667,328.15,1.45985,CCCC[N+](CCCC)(CCCC)CCCC.[Br-],CC(=O)CCC(=O)O
+III,tetrabutylazanium bromide,4-oxopentanoic acid,0.3333,0.6667,333.15,1.45832,CCCC[N+](CCCC)(CCCC)CCCC.[Br-],CC(=O)CCC(=O)O
+III,tetrabutylazanium bromide,4-oxopentanoic acid,0.3333,0.6667,338.15,1.45671,CCCC[N+](CCCC)(CCCC)CCCC.[Br-],CC(=O)CCC(=O)O
+III,tetrabutylazanium bromide,4-oxopentanoic acid,0.3333,0.6667,343.15,1.45508,CCCC[N+](CCCC)(CCCC)CCCC.[Br-],CC(=O)CCC(=O)O
+III,tetraethylazanium bromide,4-oxopentanoic acid,0.3333,0.6667,293.15,1.47273,CC[N+](CC)(CC)CC.[Br-],CC(=O)CCC(=O)O
+III,tetraethylazanium bromide,4-oxopentanoic acid,0.3333,0.6667,303.15,1.46954,CC[N+](CC)(CC)CC.[Br-],CC(=O)CCC(=O)O
+III,tetraethylazanium bromide,4-oxopentanoic acid,0.3333,0.6667,308.15,1.46795,CC[N+](CC)(CC)CC.[Br-],CC(=O)CCC(=O)O
+III,tetraethylazanium bromide,4-oxopentanoic acid,0.3333,0.6667,313.15,1.46635,CC[N+](CC)(CC)CC.[Br-],CC(=O)CCC(=O)O
+III,tetraethylazanium bromide,4-oxopentanoic acid,0.3333,0.6667,323.15,1.4632,CC[N+](CC)(CC)CC.[Br-],CC(=O)CCC(=O)O
+III,tetraethylazanium bromide,4-oxopentanoic acid,0.3333,0.6667,328.15,1.46175,CC[N+](CC)(CC)CC.[Br-],CC(=O)CCC(=O)O
+III,tetraethylazanium bromide,4-oxopentanoic acid,0.3333,0.6667,333.15,1.46021,CC[N+](CC)(CC)CC.[Br-],CC(=O)CCC(=O)O
+III,tetraethylazanium bromide,4-oxopentanoic acid,0.3333,0.6667,343.15,1.45709,CC[N+](CC)(CC)CC.[Br-],CC(=O)CCC(=O)O
+III,tetrabutylazanium bromide,3-aminopropan-1-ol,0.2,0.8,293.15,1.4807,CCCC[N+](CCCC)(CCCC)CCCC.[Br-],C(CN)CO
+III,tetrabutylazanium bromide,3-aminopropan-1-ol,0.2,0.8,298.15,1.479,CCCC[N+](CCCC)(CCCC)CCCC.[Br-],C(CN)CO
+III,tetrabutylazanium bromide,3-aminopropan-1-ol,0.2,0.8,303.15,1.4772,CCCC[N+](CCCC)(CCCC)CCCC.[Br-],C(CN)CO
+III,tetrabutylazanium bromide,3-aminopropan-1-ol,0.2,0.8,308.15,1.4756,CCCC[N+](CCCC)(CCCC)CCCC.[Br-],C(CN)CO
+III,tetrabutylazanium bromide,3-aminopropan-1-ol,0.2,0.8,318.15,1.4718,CCCC[N+](CCCC)(CCCC)CCCC.[Br-],C(CN)CO
+III,tetrabutylazanium bromide,3-aminopropan-1-ol,0.2,0.8,323.15,1.47,CCCC[N+](CCCC)(CCCC)CCCC.[Br-],C(CN)CO
+III,tetrabutylazanium bromide,3-aminopropan-1-ol,0.2,0.8,333.15,1.4668,CCCC[N+](CCCC)(CCCC)CCCC.[Br-],C(CN)CO
+III,tetrabutylazanium bromide,3-aminopropan-1-ol,0.1429,0.8571,293.15,1.4766,CCCC[N+](CCCC)(CCCC)CCCC.[Br-],C(CN)CO
+III,tetrabutylazanium bromide,3-aminopropan-1-ol,0.1429,0.8571,298.15,1.4751,CCCC[N+](CCCC)(CCCC)CCCC.[Br-],C(CN)CO
+III,tetrabutylazanium bromide,3-aminopropan-1-ol,0.1429,0.8571,303.15,1.4733,CCCC[N+](CCCC)(CCCC)CCCC.[Br-],C(CN)CO
+III,tetrabutylazanium bromide,3-aminopropan-1-ol,0.1429,0.8571,308.15,1.4716,CCCC[N+](CCCC)(CCCC)CCCC.[Br-],C(CN)CO
+III,tetrabutylazanium bromide,3-aminopropan-1-ol,0.1429,0.8571,313.15,1.4698,CCCC[N+](CCCC)(CCCC)CCCC.[Br-],C(CN)CO
+III,tetrabutylazanium bromide,3-aminopropan-1-ol,0.1429,0.8571,323.15,1.4663,CCCC[N+](CCCC)(CCCC)CCCC.[Br-],C(CN)CO
+III,tetrabutylazanium bromide,3-aminopropan-1-ol,0.1429,0.8571,328.15,1.4648,CCCC[N+](CCCC)(CCCC)CCCC.[Br-],C(CN)CO
+III,tetrabutylazanium bromide,3-aminopropan-1-ol,0.1429,0.8571,333.15,1.463,CCCC[N+](CCCC)(CCCC)CCCC.[Br-],C(CN)CO
+III,tetrabutylazanium bromide,3-aminopropan-1-ol,0.1111,0.8889,298.15,1.4725,CCCC[N+](CCCC)(CCCC)CCCC.[Br-],C(CN)CO
+III,tetrabutylazanium bromide,3-aminopropan-1-ol,0.1111,0.8889,303.15,1.4708,CCCC[N+](CCCC)(CCCC)CCCC.[Br-],C(CN)CO
+III,tetrabutylazanium bromide,3-aminopropan-1-ol,0.1111,0.8889,308.15,1.469,CCCC[N+](CCCC)(CCCC)CCCC.[Br-],C(CN)CO
+III,tetrabutylazanium bromide,3-aminopropan-1-ol,0.1111,0.8889,313.15,1.4672,CCCC[N+](CCCC)(CCCC)CCCC.[Br-],C(CN)CO
+III,tetrabutylazanium bromide,3-aminopropan-1-ol,0.1111,0.8889,323.15,1.4639,CCCC[N+](CCCC)(CCCC)CCCC.[Br-],C(CN)CO
+III,tetrabutylazanium bromide,3-aminopropan-1-ol,0.1111,0.8889,328.15,1.4622,CCCC[N+](CCCC)(CCCC)CCCC.[Br-],C(CN)CO
+III,tetrabutylazanium bromide,3-aminopropan-1-ol,0.1111,0.8889,333.15,1.4604,CCCC[N+](CCCC)(CCCC)CCCC.[Br-],C(CN)CO
+III,methyl(triphenyl)phosphanium bromide,2-aminoethanol,0.1667,0.8333,298.15,1.56644,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(CO)N
+III,methyl(triphenyl)phosphanium bromide,2-aminoethanol,0.1667,0.8333,308.15,1.56247,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(CO)N
+III,methyl(triphenyl)phosphanium bromide,2-aminoethanol,0.1667,0.8333,328.15,1.55518,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(CO)N
+III,methyl(triphenyl)phosphanium bromide,2-aminoethanol,0.1667,0.8333,338.15,1.55159,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(CO)N
+III,methyl(triphenyl)phosphanium bromide,2-aminoethanol,0.1667,0.8333,348.15,1.54699,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(CO)N
+III,methyl(triphenyl)phosphanium bromide,2-aminoethanol,0.1667,0.8333,358.15,1.54286,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(CO)N
+III,methyl(triphenyl)phosphanium bromide,2-aminoethanol,0.1429,0.8571,298.15,1.51187,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(CO)N
+III,methyl(triphenyl)phosphanium bromide,2-aminoethanol,0.1429,0.8571,318.15,1.50501,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(CO)N
+III,methyl(triphenyl)phosphanium bromide,2-aminoethanol,0.1429,0.8571,328.15,1.50071,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(CO)N
+III,methyl(triphenyl)phosphanium bromide,2-aminoethanol,0.1429,0.8571,338.15,1.49733,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(CO)N
+III,methyl(triphenyl)phosphanium bromide,2-aminoethanol,0.1429,0.8571,348.15,1.49343,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(CO)N
+III,methyl(triphenyl)phosphanium bromide,2-aminoethanol,0.125,0.875,298.15,1.50587,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(CO)N
+III,methyl(triphenyl)phosphanium bromide,2-aminoethanol,0.125,0.875,308.15,1.50221,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(CO)N
+III,methyl(triphenyl)phosphanium bromide,2-aminoethanol,0.125,0.875,328.15,1.49519,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(CO)N
+III,methyl(triphenyl)phosphanium bromide,2-aminoethanol,0.125,0.875,338.15,1.49063,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(CO)N
+III,methyl(triphenyl)phosphanium bromide,2-aminoethanol,0.125,0.875,348.15,1.48631,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(CO)N
+III,methyl(triphenyl)phosphanium bromide,2-aminoethanol,0.125,0.875,358.15,1.48215,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(CO)N
+III,methyl(triphenyl)phosphanium bromide,2-aminoethanol,0.1111,0.8889,298.15,1.50265,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(CO)N
+III,methyl(triphenyl)phosphanium bromide,2-aminoethanol,0.1111,0.8889,308.15,1.49911,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(CO)N
+III,methyl(triphenyl)phosphanium bromide,2-aminoethanol,0.1111,0.8889,328.15,1.49224,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(CO)N
+III,methyl(triphenyl)phosphanium bromide,2-aminoethanol,0.1111,0.8889,338.15,1.48802,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(CO)N
+III,methyl(triphenyl)phosphanium bromide,2-aminoethanol,0.1111,0.8889,348.15,1.48405,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(CO)N
+III,methyl(triphenyl)phosphanium bromide,2-aminoethanol,0.1111,0.8889,358.15,1.47988,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(CO)N
+III,tetrabutylazanium bromide,2-aminoethanol,0.25,0.75,308.15,1.48876,CCCC[N+](CCCC)(CCCC)CCCC.[Br-],C(CO)N
+III,tetrabutylazanium bromide,2-aminoethanol,0.25,0.75,318.15,1.48547,CCCC[N+](CCCC)(CCCC)CCCC.[Br-],C(CO)N
+III,tetrabutylazanium bromide,2-aminoethanol,0.25,0.75,328.15,1.48242,CCCC[N+](CCCC)(CCCC)CCCC.[Br-],C(CO)N
+III,tetrabutylazanium bromide,2-aminoethanol,0.25,0.75,338.15,1.47966,CCCC[N+](CCCC)(CCCC)CCCC.[Br-],C(CO)N
+III,tetrabutylazanium bromide,2-aminoethanol,0.25,0.75,348.15,1.47651,CCCC[N+](CCCC)(CCCC)CCCC.[Br-],C(CO)N
+III,tetrabutylazanium bromide,2-aminoethanol,0.25,0.75,358.15,1.47303,CCCC[N+](CCCC)(CCCC)CCCC.[Br-],C(CO)N
+III,tetrabutylazanium bromide,2-aminoethanol,0.2,0.8,308.15,1.48464,CCCC[N+](CCCC)(CCCC)CCCC.[Br-],C(CO)N
+III,tetrabutylazanium bromide,2-aminoethanol,0.2,0.8,318.15,1.48169,CCCC[N+](CCCC)(CCCC)CCCC.[Br-],C(CO)N
+III,tetrabutylazanium bromide,2-aminoethanol,0.2,0.8,328.15,1.47851,CCCC[N+](CCCC)(CCCC)CCCC.[Br-],C(CO)N
+III,tetrabutylazanium bromide,2-aminoethanol,0.2,0.8,338.15,1.47541,CCCC[N+](CCCC)(CCCC)CCCC.[Br-],C(CO)N
+III,tetrabutylazanium bromide,2-aminoethanol,0.2,0.8,348.15,1.47164,CCCC[N+](CCCC)(CCCC)CCCC.[Br-],C(CO)N
+III,tetrabutylazanium bromide,2-aminoethanol,0.1667,0.8333,298.15,1.4877,CCCC[N+](CCCC)(CCCC)CCCC.[Br-],C(CO)N
+III,tetrabutylazanium bromide,2-aminoethanol,0.1667,0.8333,308.15,1.48423,CCCC[N+](CCCC)(CCCC)CCCC.[Br-],C(CO)N
+III,tetrabutylazanium bromide,2-aminoethanol,0.1667,0.8333,318.15,1.48115,CCCC[N+](CCCC)(CCCC)CCCC.[Br-],C(CO)N
+III,tetrabutylazanium bromide,2-aminoethanol,0.1667,0.8333,328.15,1.47778,CCCC[N+](CCCC)(CCCC)CCCC.[Br-],C(CO)N
+III,tetrabutylazanium bromide,2-aminoethanol,0.1667,0.8333,338.15,1.47385,CCCC[N+](CCCC)(CCCC)CCCC.[Br-],C(CO)N
+III,tetrabutylazanium bromide,2-aminoethanol,0.1667,0.8333,348.15,1.46989,CCCC[N+](CCCC)(CCCC)CCCC.[Br-],C(CO)N
+III,tetrabutylazanium bromide,2-aminoethanol,0.1429,0.8571,298.15,1.48383,CCCC[N+](CCCC)(CCCC)CCCC.[Br-],C(CO)N
+III,tetrabutylazanium bromide,2-aminoethanol,0.1429,0.8571,308.15,1.48033,CCCC[N+](CCCC)(CCCC)CCCC.[Br-],C(CO)N
+III,tetrabutylazanium bromide,2-aminoethanol,0.1429,0.8571,328.15,1.47349,CCCC[N+](CCCC)(CCCC)CCCC.[Br-],C(CO)N
+III,tetrabutylazanium bromide,2-aminoethanol,0.1429,0.8571,338.15,1.46989,CCCC[N+](CCCC)(CCCC)CCCC.[Br-],C(CO)N
+III,tetrabutylazanium bromide,2-aminoethanol,0.1429,0.8571,348.15,1.46595,CCCC[N+](CCCC)(CCCC)CCCC.[Br-],C(CO)N
+III,tetrabutylazanium bromide,2-aminoethanol,0.1429,0.8571,358.15,1.46234,CCCC[N+](CCCC)(CCCC)CCCC.[Br-],C(CO)N
+III,methyl(triphenyl)phosphanium bromide,"2,2,2-trifluoroacetamide",0.1111,0.8889,288.15,1.4913,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(=O)(C(F)(F)F)N
+III,methyl(triphenyl)phosphanium bromide,"2,2,2-trifluoroacetamide",0.1111,0.8889,298.15,1.4849,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(=O)(C(F)(F)F)N
+III,methyl(triphenyl)phosphanium bromide,"2,2,2-trifluoroacetamide",0.1111,0.8889,318.15,1.4782,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(=O)(C(F)(F)F)N
+III,methyl(triphenyl)phosphanium bromide,"2,2,2-trifluoroacetamide",0.1111,0.8889,328.15,1.4745,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(=O)(C(F)(F)F)N
+III,methyl(triphenyl)phosphanium bromide,"2,2,2-trifluoroacetamide",0.1111,0.8889,338.15,1.4737,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(=O)(C(F)(F)F)N
+III,methyl(triphenyl)phosphanium bromide,"ethane-1,2-diol",0.2,0.8,308.15,1.5542,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(CO)O
+III,methyl(triphenyl)phosphanium bromide,"ethane-1,2-diol",0.2,0.8,328.15,1.5483,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(CO)O
+III,methyl(triphenyl)phosphanium bromide,"propane-1,2,3-triol",0.3636,0.6364,288.15,1.5708,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(C(CO)O)O
+III,methyl(triphenyl)phosphanium bromide,"propane-1,2,3-triol",0.3636,0.6364,298.15,1.5666,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(C(CO)O)O
+III,methyl(triphenyl)phosphanium bromide,"propane-1,2,3-triol",0.3636,0.6364,308.15,1.5656,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(C(CO)O)O
+III,methyl(triphenyl)phosphanium bromide,"propane-1,2,3-triol",0.3636,0.6364,318.15,1.5627,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(C(CO)O)O
+III,methyl(triphenyl)phosphanium bromide,"propane-1,2,3-triol",0.3636,0.6364,338.15,1.5578,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(C(CO)O)O
+III,triphenyl(prop-2-enyl)phosphanium bromide,2-(2-hydroxyethoxy)ethanol,0.2,0.8,293.15,1.5446,C=CC[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(COCCO)O
+III,triphenyl(prop-2-enyl)phosphanium bromide,2-(2-hydroxyethoxy)ethanol,0.2,0.8,298.15,1.543,C=CC[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(COCCO)O
+III,triphenyl(prop-2-enyl)phosphanium bromide,2-(2-hydroxyethoxy)ethanol,0.2,0.8,303.15,1.5413,C=CC[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(COCCO)O
+III,triphenyl(prop-2-enyl)phosphanium bromide,2-(2-hydroxyethoxy)ethanol,0.2,0.8,308.15,1.5396,C=CC[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(COCCO)O
+III,triphenyl(prop-2-enyl)phosphanium bromide,2-(2-hydroxyethoxy)ethanol,0.2,0.8,313.15,1.538,C=CC[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(COCCO)O
+III,triphenyl(prop-2-enyl)phosphanium bromide,2-(2-hydroxyethoxy)ethanol,0.2,0.8,318.15,1.5363,C=CC[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(COCCO)O
+III,triphenyl(prop-2-enyl)phosphanium bromide,2-(2-hydroxyethoxy)ethanol,0.2,0.8,328.15,1.5329,C=CC[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(COCCO)O
+III,triphenyl(prop-2-enyl)phosphanium bromide,2-(2-hydroxyethoxy)ethanol,0.2,0.8,333.15,1.5313,C=CC[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(COCCO)O
+III,triphenyl(prop-2-enyl)phosphanium bromide,2-(2-hydroxyethoxy)ethanol,0.2,0.8,338.15,1.5296,C=CC[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(COCCO)O
+III,triphenyl(prop-2-enyl)phosphanium bromide,2-(2-hydroxyethoxy)ethanol,0.0909,0.9091,293.15,1.4955,C=CC[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(COCCO)O
+III,triphenyl(prop-2-enyl)phosphanium bromide,2-(2-hydroxyethoxy)ethanol,0.0909,0.9091,298.15,1.4938,C=CC[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(COCCO)O
+III,triphenyl(prop-2-enyl)phosphanium bromide,2-(2-hydroxyethoxy)ethanol,0.0909,0.9091,303.15,1.4921,C=CC[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(COCCO)O
+III,triphenyl(prop-2-enyl)phosphanium bromide,2-(2-hydroxyethoxy)ethanol,0.0909,0.9091,308.15,1.4904,C=CC[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(COCCO)O
+III,triphenyl(prop-2-enyl)phosphanium bromide,2-(2-hydroxyethoxy)ethanol,0.0909,0.9091,318.15,1.487,C=CC[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(COCCO)O
+III,triphenyl(prop-2-enyl)phosphanium bromide,2-(2-hydroxyethoxy)ethanol,0.0909,0.9091,323.15,1.4853,C=CC[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(COCCO)O
+III,triphenyl(prop-2-enyl)phosphanium bromide,2-(2-hydroxyethoxy)ethanol,0.0909,0.9091,328.15,1.4836,C=CC[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(COCCO)O
+III,triphenyl(prop-2-enyl)phosphanium bromide,2-(2-hydroxyethoxy)ethanol,0.0909,0.9091,338.15,1.4802,C=CC[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(COCCO)O
+III,triphenyl(prop-2-enyl)phosphanium bromide,2-(2-hydroxyethoxy)ethanol,0.0909,0.9091,343.15,1.4785,C=CC[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(COCCO)O
+III,triphenyl(prop-2-enyl)phosphanium bromide,2-(2-hydroxyethoxy)ethanol,0.0588,0.9412,293.15,1.4817,C=CC[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(COCCO)O
+III,triphenyl(prop-2-enyl)phosphanium bromide,2-(2-hydroxyethoxy)ethanol,0.0588,0.9412,298.15,1.4801,C=CC[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(COCCO)O
+III,triphenyl(prop-2-enyl)phosphanium bromide,2-(2-hydroxyethoxy)ethanol,0.0588,0.9412,303.15,1.4784,C=CC[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(COCCO)O
+III,triphenyl(prop-2-enyl)phosphanium bromide,2-(2-hydroxyethoxy)ethanol,0.0588,0.9412,308.15,1.4768,C=CC[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(COCCO)O
+III,triphenyl(prop-2-enyl)phosphanium bromide,2-(2-hydroxyethoxy)ethanol,0.0588,0.9412,318.15,1.4735,C=CC[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(COCCO)O
+III,triphenyl(prop-2-enyl)phosphanium bromide,2-(2-hydroxyethoxy)ethanol,0.0588,0.9412,323.15,1.4718,C=CC[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(COCCO)O
+III,triphenyl(prop-2-enyl)phosphanium bromide,2-(2-hydroxyethoxy)ethanol,0.0588,0.9412,333.15,1.4684,C=CC[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(COCCO)O
+III,triphenyl(prop-2-enyl)phosphanium bromide,2-(2-hydroxyethoxy)ethanol,0.0588,0.9412,338.15,1.4668,C=CC[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(COCCO)O
+III,triphenyl(prop-2-enyl)phosphanium bromide,2-(2-hydroxyethoxy)ethanol,0.0588,0.9412,343.15,1.4651,C=CC[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(COCCO)O
+III,triphenyl(prop-2-enyl)phosphanium bromide,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.2,0.8,293.15,1.5314,C=CC[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(COCCOCCO)O
+III,triphenyl(prop-2-enyl)phosphanium bromide,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.2,0.8,298.15,1.5297,C=CC[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(COCCOCCO)O
+III,triphenyl(prop-2-enyl)phosphanium bromide,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.2,0.8,303.15,1.528,C=CC[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(COCCOCCO)O
+III,triphenyl(prop-2-enyl)phosphanium bromide,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.2,0.8,313.15,1.5245,C=CC[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(COCCOCCO)O
+III,triphenyl(prop-2-enyl)phosphanium bromide,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.2,0.8,323.15,1.5211,C=CC[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(COCCOCCO)O
+III,triphenyl(prop-2-enyl)phosphanium bromide,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.2,0.8,328.15,1.5193,C=CC[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(COCCOCCO)O
+III,triphenyl(prop-2-enyl)phosphanium bromide,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.2,0.8,333.15,1.5176,C=CC[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(COCCOCCO)O
+III,triphenyl(prop-2-enyl)phosphanium bromide,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.2,0.8,338.15,1.5158,C=CC[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(COCCOCCO)O
+III,triphenyl(prop-2-enyl)phosphanium bromide,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.2,0.8,343.15,1.5141,C=CC[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(COCCOCCO)O
+III,triphenyl(prop-2-enyl)phosphanium bromide,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.0909,0.9091,298.15,1.4927,C=CC[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(COCCOCCO)O
+III,triphenyl(prop-2-enyl)phosphanium bromide,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.0909,0.9091,303.15,1.4909,C=CC[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(COCCOCCO)O
+III,triphenyl(prop-2-enyl)phosphanium bromide,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.0909,0.9091,308.15,1.4892,C=CC[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(COCCOCCO)O
+III,triphenyl(prop-2-enyl)phosphanium bromide,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.0909,0.9091,313.15,1.4874,C=CC[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(COCCOCCO)O
+III,triphenyl(prop-2-enyl)phosphanium bromide,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.0909,0.9091,318.15,1.4857,C=CC[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(COCCOCCO)O
+III,triphenyl(prop-2-enyl)phosphanium bromide,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.0909,0.9091,328.15,1.4822,C=CC[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(COCCOCCO)O
+III,triphenyl(prop-2-enyl)phosphanium bromide,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.0909,0.9091,333.15,1.4804,C=CC[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(COCCOCCO)O
+III,triphenyl(prop-2-enyl)phosphanium bromide,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.0909,0.9091,343.15,1.4769,C=CC[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(COCCOCCO)O
+III,triphenyl(prop-2-enyl)phosphanium bromide,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.0588,0.9412,293.15,1.4803,C=CC[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(COCCOCCO)O
+III,triphenyl(prop-2-enyl)phosphanium bromide,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.0588,0.9412,298.15,1.4786,C=CC[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(COCCOCCO)O
+III,triphenyl(prop-2-enyl)phosphanium bromide,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.0588,0.9412,303.15,1.4769,C=CC[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(COCCOCCO)O
+III,triphenyl(prop-2-enyl)phosphanium bromide,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.0588,0.9412,308.15,1.4752,C=CC[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(COCCOCCO)O
+III,triphenyl(prop-2-enyl)phosphanium bromide,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.0588,0.9412,318.15,1.4717,C=CC[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(COCCOCCO)O
+III,triphenyl(prop-2-enyl)phosphanium bromide,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.0588,0.9412,323.15,1.47,C=CC[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(COCCOCCO)O
+III,triphenyl(prop-2-enyl)phosphanium bromide,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.0588,0.9412,328.15,1.4683,C=CC[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(COCCOCCO)O
+III,triphenyl(prop-2-enyl)phosphanium bromide,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.0588,0.9412,338.15,1.4649,C=CC[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(COCCOCCO)O
+III,triphenyl(prop-2-enyl)phosphanium bromide,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.0588,0.9412,343.15,1.4632,C=CC[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(COCCOCCO)O
+III,methyl(triphenyl)phosphanium bromide,2-[2-hydroxyethyl(methyl)amino]ethanol,0.125,0.875,293.15,1.52077,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],CN(CCO)CCO
+III,methyl(triphenyl)phosphanium bromide,2-[2-hydroxyethyl(methyl)amino]ethanol,0.125,0.875,298.15,1.51904,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],CN(CCO)CCO
+III,methyl(triphenyl)phosphanium bromide,2-[2-hydroxyethyl(methyl)amino]ethanol,0.125,0.875,303.15,1.51732,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],CN(CCO)CCO
+III,methyl(triphenyl)phosphanium bromide,2-[2-hydroxyethyl(methyl)amino]ethanol,0.125,0.875,308.15,1.51557,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],CN(CCO)CCO
+III,methyl(triphenyl)phosphanium bromide,2-[2-hydroxyethyl(methyl)amino]ethanol,0.125,0.875,313.15,1.51383,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],CN(CCO)CCO
+III,methyl(triphenyl)phosphanium bromide,2-[2-hydroxyethyl(methyl)amino]ethanol,0.125,0.875,323.15,1.5103,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],CN(CCO)CCO
+III,methyl(triphenyl)phosphanium bromide,2-[2-hydroxyethyl(methyl)amino]ethanol,0.125,0.875,328.15,1.5083,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],CN(CCO)CCO
+III,methyl(triphenyl)phosphanium bromide,2-[2-hydroxyethyl(methyl)amino]ethanol,0.125,0.875,338.15,1.50466,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],CN(CCO)CCO
+III,methyl(triphenyl)phosphanium bromide,2-[2-hydroxyethyl(methyl)amino]ethanol,0.125,0.875,343.15,1.50288,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],CN(CCO)CCO
+III,methyl(triphenyl)phosphanium bromide,2-[2-hydroxyethyl(methyl)amino]ethanol,0.0909,0.9091,293.15,1.50867,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],CN(CCO)CCO
+III,methyl(triphenyl)phosphanium bromide,2-[2-hydroxyethyl(methyl)amino]ethanol,0.0909,0.9091,298.15,1.50694,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],CN(CCO)CCO
+III,methyl(triphenyl)phosphanium bromide,2-[2-hydroxyethyl(methyl)amino]ethanol,0.0909,0.9091,308.15,1.5034,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],CN(CCO)CCO
+III,methyl(triphenyl)phosphanium bromide,2-[2-hydroxyethyl(methyl)amino]ethanol,0.0909,0.9091,313.15,1.50162,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],CN(CCO)CCO
+III,methyl(triphenyl)phosphanium bromide,2-[2-hydroxyethyl(methyl)amino]ethanol,0.0909,0.9091,318.15,1.49961,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],CN(CCO)CCO
+III,methyl(triphenyl)phosphanium bromide,2-[2-hydroxyethyl(methyl)amino]ethanol,0.0909,0.9091,323.15,1.49793,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],CN(CCO)CCO
+III,methyl(triphenyl)phosphanium bromide,2-[2-hydroxyethyl(methyl)amino]ethanol,0.0909,0.9091,328.15,1.49584,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],CN(CCO)CCO
+III,methyl(triphenyl)phosphanium bromide,2-[2-hydroxyethyl(methyl)amino]ethanol,0.0909,0.9091,333.15,1.4942,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],CN(CCO)CCO
+III,methyl(triphenyl)phosphanium bromide,2-[2-hydroxyethyl(methyl)amino]ethanol,0.0909,0.9091,343.15,1.49064,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],CN(CCO)CCO
+III,methyl(triphenyl)phosphanium bromide,2-[2-hydroxyethyl(methyl)amino]ethanol,0.0588,0.9412,293.15,1.49579,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],CN(CCO)CCO
+III,methyl(triphenyl)phosphanium bromide,2-[2-hydroxyethyl(methyl)amino]ethanol,0.0588,0.9412,303.15,1.49224,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],CN(CCO)CCO
+III,methyl(triphenyl)phosphanium bromide,2-[2-hydroxyethyl(methyl)amino]ethanol,0.0588,0.9412,308.15,1.49037,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],CN(CCO)CCO
+III,methyl(triphenyl)phosphanium bromide,2-[2-hydroxyethyl(methyl)amino]ethanol,0.0588,0.9412,313.15,1.48865,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],CN(CCO)CCO
+III,methyl(triphenyl)phosphanium bromide,2-[2-hydroxyethyl(methyl)amino]ethanol,0.0588,0.9412,318.15,1.4869,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],CN(CCO)CCO
+III,methyl(triphenyl)phosphanium bromide,2-[2-hydroxyethyl(methyl)amino]ethanol,0.0588,0.9412,328.15,1.48313,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],CN(CCO)CCO
+III,methyl(triphenyl)phosphanium bromide,2-[2-hydroxyethyl(methyl)amino]ethanol,0.0588,0.9412,333.15,1.48114,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],CN(CCO)CCO
+III,methyl(triphenyl)phosphanium bromide,2-[2-hydroxyethyl(methyl)amino]ethanol,0.0588,0.9412,338.15,1.47935,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],CN(CCO)CCO
+III,methyl(triphenyl)phosphanium bromide,2-[2-hydroxyethyl(methyl)amino]ethanol,0.0588,0.9412,343.15,1.47746,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],CN(CCO)CCO
+III,methyl(triphenyl)phosphanium bromide,"ethane-1,2-diol",0.25,0.75,298.15,1.5678,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(CO)O
+III,methyl(triphenyl)phosphanium bromide,"ethane-1,2-diol",0.2,0.8,298.15,1.553,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(CO)O
+III,methyl(triphenyl)phosphanium bromide,"propane-1,2,3-triol",0.3333,0.6667,298.15,1.5917,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(C(CO)O)O
+III,methyl(triphenyl)phosphanium bromide,"propane-1,2,3-triol",0.25,0.75,298.15,1.5715,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(C(CO)O)O
+III,methyl(triphenyl)phosphanium bromide,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.25,0.75,298.15,1.5417,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(COCCOCCO)O
+III,methyl(triphenyl)phosphanium bromide,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.2,0.8,298.15,1.5263,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(COCCOCCO)O
+III,methyl(triphenyl)phosphanium bromide,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.1597,0.8403,298.15,1.5178,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(COCCOCCO)O
+III,tetrabutylphosphanium bromide,"ethane-1,2-diol",0.3333,0.6667,298.15,1.4872,CCCC[P+](CCCC)(CCCC)CCCC.[Br-],C(CO)O
+III,tetrabutylphosphanium bromide,"ethane-1,2-diol",0.3333,0.6667,303.15,1.4857,CCCC[P+](CCCC)(CCCC)CCCC.[Br-],C(CO)O
+III,tetrabutylphosphanium bromide,"ethane-1,2-diol",0.3333,0.6667,313.15,1.4818,CCCC[P+](CCCC)(CCCC)CCCC.[Br-],C(CO)O
+III,tetrabutylphosphanium bromide,"ethane-1,2-diol",0.3333,0.6667,333.15,1.4571,CCCC[P+](CCCC)(CCCC)CCCC.[Br-],C(CO)O
+III,tetraethylazanium bromide,"2-hydroxy-2,2-diphenylacetic acid",0.5,0.5,308.15,1.570721,CC[N+](CC)(CC)CC.[Br-],C1=CC=C(C=C1)C(C2=CC=CC=C2)(C(=O)O)O
+III,tetraethylazanium bromide,"2-hydroxy-2,2-diphenylacetic acid",0.5,0.5,328.15,1.564317,CC[N+](CC)(CC)CC.[Br-],C1=CC=C(C=C1)C(C2=CC=CC=C2)(C(=O)O)O
+III,tetrapropylazanium bromide,"2-hydroxy-2,2-diphenylacetic acid",0.5,0.5,298.15,1.550819,CCC[N+](CCC)(CCC)CCC.[Br-],C1=CC=C(C=C1)C(C2=CC=CC=C2)(C(=O)O)O
+III,tetrapropylazanium bromide,"2-hydroxy-2,2-diphenylacetic acid",0.5,0.5,328.15,1.541532,CCC[N+](CCC)(CCC)CCC.[Br-],C1=CC=C(C=C1)C(C2=CC=CC=C2)(C(=O)O)O
+III,tetrabutylazanium bromide,4-oxopentanoic acid,0.3333,0.6667,298.15,1.4696,CCCC[N+](CCCC)(CCCC)CCCC.[Br-],CC(=O)CCC(=O)O
+III,tetrabutylazanium bromide,4-oxopentanoic acid,0.3333,0.6667,318.15,1.46301,CCCC[N+](CCCC)(CCCC)CCCC.[Br-],CC(=O)CCC(=O)O
+III,tetraethylazanium bromide,4-oxopentanoic acid,0.3333,0.6667,298.15,1.47114,CC[N+](CC)(CC)CC.[Br-],CC(=O)CCC(=O)O
+III,tetraethylazanium bromide,4-oxopentanoic acid,0.3333,0.6667,318.15,1.46479,CC[N+](CC)(CC)CC.[Br-],CC(=O)CCC(=O)O
+III,tetraethylazanium bromide,4-oxopentanoic acid,0.3333,0.6667,338.15,1.45859,CC[N+](CC)(CC)CC.[Br-],CC(=O)CCC(=O)O
+III,tetrabutylazanium bromide,3-aminopropan-1-ol,0.2,0.8,313.15,1.4737,CCCC[N+](CCCC)(CCCC)CCCC.[Br-],C(CN)CO
+III,tetrabutylazanium bromide,3-aminopropan-1-ol,0.2,0.8,328.15,1.4687,CCCC[N+](CCCC)(CCCC)CCCC.[Br-],C(CN)CO
+III,tetrabutylazanium bromide,3-aminopropan-1-ol,0.1429,0.8571,318.15,1.468,CCCC[N+](CCCC)(CCCC)CCCC.[Br-],C(CN)CO
+III,tetrabutylazanium bromide,3-aminopropan-1-ol,0.1111,0.8889,293.15,1.4742,CCCC[N+](CCCC)(CCCC)CCCC.[Br-],C(CN)CO
+III,tetrabutylazanium bromide,3-aminopropan-1-ol,0.1111,0.8889,318.15,1.4655,CCCC[N+](CCCC)(CCCC)CCCC.[Br-],C(CN)CO
+III,methyl(triphenyl)phosphanium bromide,2-aminoethanol,0.1667,0.8333,318.15,1.55846,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(CO)N
+III,methyl(triphenyl)phosphanium bromide,2-aminoethanol,0.1429,0.8571,308.15,1.50794,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(CO)N
+III,methyl(triphenyl)phosphanium bromide,2-aminoethanol,0.1429,0.8571,358.15,1.49027,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(CO)N
+III,methyl(triphenyl)phosphanium bromide,2-aminoethanol,0.125,0.875,318.15,1.49935,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(CO)N
+III,methyl(triphenyl)phosphanium bromide,2-aminoethanol,0.1111,0.8889,318.15,1.49546,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(CO)N
+III,tetrabutylazanium bromide,2-aminoethanol,0.25,0.75,298.15,1.49229,CCCC[N+](CCCC)(CCCC)CCCC.[Br-],C(CO)N
+III,tetrabutylazanium bromide,2-aminoethanol,0.2,0.8,298.15,1.4881,CCCC[N+](CCCC)(CCCC)CCCC.[Br-],C(CO)N
+III,tetrabutylazanium bromide,2-aminoethanol,0.2,0.8,358.15,1.46897,CCCC[N+](CCCC)(CCCC)CCCC.[Br-],C(CO)N
+III,tetrabutylazanium bromide,2-aminoethanol,0.1667,0.8333,358.15,1.46632,CCCC[N+](CCCC)(CCCC)CCCC.[Br-],C(CO)N
+III,tetrabutylazanium bromide,2-aminoethanol,0.1429,0.8571,318.15,1.47704,CCCC[N+](CCCC)(CCCC)CCCC.[Br-],C(CO)N
+III,methyl(triphenyl)phosphanium bromide,"2,2,2-trifluoroacetamide",0.1111,0.8889,308.15,1.4824,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(=O)(C(F)(F)F)N
+III,methyl(triphenyl)phosphanium bromide,"ethane-1,2-diol",0.2,0.8,288.15,1.5622,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(CO)O
+III,methyl(triphenyl)phosphanium bromide,"ethane-1,2-diol",0.2,0.8,338.15,1.5446,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(CO)O
+III,methyl(triphenyl)phosphanium bromide,"propane-1,2,3-triol",0.3636,0.6364,328.15,1.5607,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(C(CO)O)O
+III,triphenyl(prop-2-enyl)phosphanium bromide,2-(2-hydroxyethoxy)ethanol,0.2,0.8,323.15,1.5346,C=CC[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(COCCO)O
+III,triphenyl(prop-2-enyl)phosphanium bromide,2-(2-hydroxyethoxy)ethanol,0.2,0.8,343.15,1.5279,C=CC[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(COCCO)O
+III,triphenyl(prop-2-enyl)phosphanium bromide,2-(2-hydroxyethoxy)ethanol,0.0909,0.9091,313.15,1.4887,C=CC[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(COCCO)O
+III,triphenyl(prop-2-enyl)phosphanium bromide,2-(2-hydroxyethoxy)ethanol,0.0909,0.9091,333.15,1.4819,C=CC[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(COCCO)O
+III,triphenyl(prop-2-enyl)phosphanium bromide,2-(2-hydroxyethoxy)ethanol,0.0588,0.9412,313.15,1.4752,C=CC[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(COCCO)O
+III,triphenyl(prop-2-enyl)phosphanium bromide,2-(2-hydroxyethoxy)ethanol,0.0588,0.9412,328.15,1.4701,C=CC[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(COCCO)O
+III,triphenyl(prop-2-enyl)phosphanium bromide,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.2,0.8,308.15,1.5263,C=CC[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(COCCOCCO)O
+III,triphenyl(prop-2-enyl)phosphanium bromide,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.2,0.8,318.15,1.5228,C=CC[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(COCCOCCO)O
+III,triphenyl(prop-2-enyl)phosphanium bromide,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.0909,0.9091,293.15,1.4945,C=CC[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(COCCOCCO)O
+III,triphenyl(prop-2-enyl)phosphanium bromide,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.0909,0.9091,323.15,1.4839,C=CC[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(COCCOCCO)O
+III,triphenyl(prop-2-enyl)phosphanium bromide,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.0909,0.9091,338.15,1.4787,C=CC[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(COCCOCCO)O
+III,triphenyl(prop-2-enyl)phosphanium bromide,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.0588,0.9412,313.15,1.4735,C=CC[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(COCCOCCO)O
+III,triphenyl(prop-2-enyl)phosphanium bromide,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,0.0588,0.9412,333.15,1.4666,C=CC[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(COCCOCCO)O
+III,methyl(triphenyl)phosphanium bromide,2-[2-hydroxyethyl(methyl)amino]ethanol,0.125,0.875,318.15,1.51212,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],CN(CCO)CCO
+III,methyl(triphenyl)phosphanium bromide,2-[2-hydroxyethyl(methyl)amino]ethanol,0.125,0.875,333.15,1.50644,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],CN(CCO)CCO
+III,methyl(triphenyl)phosphanium bromide,2-[2-hydroxyethyl(methyl)amino]ethanol,0.0909,0.9091,303.15,1.50517,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],CN(CCO)CCO
+III,methyl(triphenyl)phosphanium bromide,2-[2-hydroxyethyl(methyl)amino]ethanol,0.0909,0.9091,338.15,1.49244,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],CN(CCO)CCO
+III,methyl(triphenyl)phosphanium bromide,2-[2-hydroxyethyl(methyl)amino]ethanol,0.0588,0.9412,298.15,1.49402,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],CN(CCO)CCO
+III,methyl(triphenyl)phosphanium bromide,2-[2-hydroxyethyl(methyl)amino]ethanol,0.0588,0.9412,323.15,1.48502,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],CN(CCO)CCO
+III,methyl(triphenyl)phosphanium bromide,"ethane-1,2-diol",0.16,0.84,298.15,1.5398,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(CO)O
+III,methyl(triphenyl)phosphanium bromide,"propane-1,2,3-triol",0.2,0.8,298.15,1.5597,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-],C(C(CO)O)O
+III,tetrabutylphosphanium bromide,"ethane-1,2-diol",0.3333,0.6667,323.15,1.4786,CCCC[P+](CCCC)(CCCC)CCCC.[Br-],C(CO)O
