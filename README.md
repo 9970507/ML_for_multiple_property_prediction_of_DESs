@@ -1,8 +1,8 @@
-# Machine learning for predicting physicochemical properties of deep eutectic solvents
+# Machine learning for predicting multiple physicochemical properties of Type III/V deep eutectic solvents
 
 ## Overview
 
-This repository accompanies a study that establishes a systematic XGBoost-based machine learning framework for predicting six key physicochemical properties of Type III/V deep eutectic solvents (DESs): melting point, viscosity, density, heat capacity, electrical conductivity, and surface tension. In the paper, multiple molecular representations — explicit descriptors, Morgan fingerprints, ChemBERTa embeddings, MoLFormer embeddings, and their hybrid combinations — were systematically compared to identify the optimal feature strategy for each property. This repository provides the source code and data corresponding to the optimal representation identified for each property, along with SHAP-based interpretability analysis.
+This repository accompanies the study “Machine learning for predicting multiple physicochemical properties of Type III/V deep eutectic solvents using low-cost and interpretable molecular representations.” The study develops an XGBoost framework for predicting six physicochemical properties: melting point, viscosity, density, heat capacity, electrical conductivity, and refractive index. Four SMILES-derived molecular representations, including explicit descriptors, Morgan fingerprints, ChemBERTa embeddings, and MoLFormer embeddings, together with their hybrids, were compared under a strict “mixtures out” evaluation protocol. The final property-specific models use explicit descriptors for density, heat capacity, and electrical conductivity, and Morgan fingerprints for melting point, refractive index, and viscosity. This repository provides the datasets, source code, trained models, and SHAP analysis scripts corresponding to the final models.
 
 ## Repository Structure
 
